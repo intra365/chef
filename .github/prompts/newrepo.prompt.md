@@ -147,12 +147,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run Trivy vulnerability scanner
-        uses: aquasecurity/trivy-action@master
+        uses: aquasecurity/trivy-action@0.20.0
         with:
           scan-type: 'fs'
           severity: 'CRITICAL,HIGH'
       - name: Run Snyk security scan
-        uses: snyk/actions@master
+        uses: snyk/actions@0.4.0
         env:
           SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
 ```
@@ -470,11 +470,11 @@ Every repository must have a comprehensive README:
 - Feature 2
 
 ## Quick Start
-\`\`\`bash
+```bash
 # Installation
 # Configuration
 # Running
-\`\`\`
+```
 
 ## Documentation
 - [Architecture](docs/ARCHITECTURE.md)
@@ -743,8 +743,7 @@ cat > README.md << 'EOF'
 EOF
 
 # 4. Create LICENSE
-gh api repos/intra365/{service-name}/license \
-  --raw-field license=apache-2.0
+curl -sL https://www.apache.org/licenses/LICENSE-2.0.txt > LICENSE
 
 # 5. Create .gitignore
 curl -sL https://www.toptal.com/developers/gitignore/api/{language} > .gitignore
