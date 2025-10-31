@@ -66,3 +66,8 @@ button:focus {
 article header h1 {
   margin-bottom: 1.5rem;
 }
+
+/* Prevent external link icons from wrapping to a new line */
+a[target="_blank"] {
+  white-space: nowrap;
+}
