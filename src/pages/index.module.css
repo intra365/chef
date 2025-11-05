@@ -25,3 +25,29 @@
   padding: 2rem 0;
   width: 100%;
 }
+
+.introSection {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.introText {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 1rem auto;
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.sectionHeaderSpaced {
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+.featureRow {
+  margin-top: 2rem;
+}

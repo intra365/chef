@@ -38,18 +38,18 @@ export default function Home(): React.ReactElement {
       <main>
         <section className={styles.features}>
           <div className="container">
-            <div className="text--center" style={{marginBottom: '3rem'}}>
+            <div className={styles.introSection}>
               <Heading as="h2">
                 A Comprehensive Reference Architecture
               </Heading>
-              <p style={{fontSize: '1.1rem', maxWidth: '800px', margin: '1rem auto'}}>
+              <p className={styles.introText}>
                 Chef documents battle-tested patterns for building and operating 
                 enterprise integration platforms, covering technical implementation 
                 and the human processes that make them successful.
               </p>
             </div>
             
-            <Heading as="h3" style={{textAlign: 'center', marginBottom: '2rem'}}>
+            <Heading as="h3" className={styles.sectionHeader}>
               🏗️ Technical Architecture
             </Heading>
             <div className="row">
@@ -81,7 +81,7 @@ export default function Home(): React.ReactElement {
                 </div>
               </div>
             </div>
-            <div className="row" style={{marginTop: '2rem'}}>
+            <div className={clsx('row', styles.featureRow)}>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
                   <h3>📊 Full Observability</h3>
@@ -111,7 +111,7 @@ export default function Home(): React.ReactElement {
               </div>
             </div>
 
-            <Heading as="h3" style={{textAlign: 'center', marginTop: '4rem', marginBottom: '2rem'}}>
+            <Heading as="h3" className={styles.sectionHeaderSpaced}>
               👥 Human Processes & Operations
             </Heading>
             <div className="row">
@@ -143,7 +143,7 @@ export default function Home(): React.ReactElement {
                 </div>
               </div>
             </div>
-            <div className="row" style={{marginTop: '2rem'}}>
+            <div className={clsx('row', styles.featureRow)}>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
                   <h3>🛡️ Security Practices</h3>
