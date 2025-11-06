@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/current/introduction/overview">
-            Get Started - 5min ⏱️
+            Explore the Reference Architecture 📚
           </Link>
         </div>
       </div>
@@ -33,36 +33,41 @@ export default function Home(): React.ReactElement {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="GitOps Deployment Orchestration for Intra365">
+      description="Reference Architecture for Technology & Human Processes">
       <HomepageHeader />
       <main>
         <section className={styles.features}>
           <div className="container">
+            <div className="row" style={{marginBottom: '3rem'}}>
+              <div className="col">
+                <div className="text--center padding-horiz--md">
+                  <h2>A Complete Reference Architecture</h2>
+                  <p style={{fontSize: '1.1rem', maxWidth: '800px', margin: '0 auto'}}>
+                    Chef provides comprehensive documentation covering both technology patterns 
+                    and human processes for building, deploying, and operating enterprise-grade 
+                    GitOps platforms. Use this as a blueprint for your own implementation.
+                  </p>
+                </div>
+              </div>
+            </div>
             <div className="row">
-              <div className="col col--4">
+              <div className="col col--6">
                 <div className="text--center padding-horiz--md">
-                  <h3>🔄 GitOps-Driven</h3>
+                  <h3>🏗️ Technology Architecture</h3>
                   <p>
-                    All deployments triggered by Git commits, ensuring version control,
-                    auditability, and easy rollbacks.
+                    Complete technical reference including GitOps workflows, Kubernetes 
+                    configurations, security implementations, infrastructure patterns, 
+                    and service orchestration examples.
                   </p>
                 </div>
               </div>
-              <div className="col col--4">
+              <div className="col col--6">
                 <div className="text--center padding-horiz--md">
-                  <h3>🚀 Automated Deployments</h3>
+                  <h3>👥 Human Process Frameworks</h3>
                   <p>
-                    GitHub Actions workflows automatically deploy services when changes
-                    are merged to main branches.
-                  </p>
-                </div>
-              </div>
-              <div className="col col--4">
-                <div className="text--center padding-horiz--md">
-                  <h3>🔒 Zero-Trust Security</h3>
-                  <p>
-                    Integration with Azure Key Vault, network policies, and RAISE 2.0
-                    DevSecOps compliance.
+                    Operational runbooks, incident response procedures, contribution 
+                    guidelines, compliance workflows, and team collaboration patterns 
+                    for sustainable operations.
                   </p>
                 </div>
               </div>
@@ -70,28 +75,28 @@ export default function Home(): React.ReactElement {
             <div className="row" style={{marginTop: '2rem'}}>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
-                  <h3>📊 Full Observability</h3>
+                  <h3>🔄 GitOps Patterns</h3>
                   <p>
-                    Built-in monitoring, logging, and tracing for all deployed services
-                    across environments.
+                    Deployment workflows, automation strategies, and version control 
+                    practices for reliable software delivery.
                   </p>
                 </div>
               </div>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
-                  <h3>🎯 Service Discovery</h3>
+                  <h3>🔒 Security & Compliance</h3>
                   <p>
-                    Automatic service registration and discovery through NATS messaging
-                    infrastructure.
+                    Zero-trust security models, RAISE 2.0 compliance frameworks, and 
+                    vulnerability management processes.
                   </p>
                 </div>
               </div>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
-                  <h3>🧠 AI-Powered Configuration</h3>
+                  <h3>📚 Operations Runbooks</h3>
                   <p>
-                    Prompt-based platform configuration that adapts to new patterns and
-                    cloud features rapidly.
+                    Day-to-day operational procedures, incident response playbooks, 
+                    and maintenance workflows.
                   </p>
                 </div>
               </div>
