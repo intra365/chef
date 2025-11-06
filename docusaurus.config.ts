@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Intra365 Chef',
+  title: 'Intra365',
   tagline: 'Reference Architecture for Technology & Human Processes',
   favicon: 'img/favicon.ico',
 
@@ -77,9 +77,9 @@ const config: Config = {
   themeConfig: {
     image: 'img/chef-social-card.jpg',
     navbar: {
-      title: 'Chef',
+      title: 'Intra365',
       logo: {
-        alt: 'Intra365 Chef Logo',
+        alt: 'Intra365 Logo',
         src: 'img/logo.svg',
       },
       items: [

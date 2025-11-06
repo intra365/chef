@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Overview
 
-Welcome to **Intra365 Chef** - the GitOps deployment orchestration system that serves as the brain binding all Intra365 services together.
+Welcome to **Intra365** - a reference architecture for an Intranet system that works by integrating all other systems forming a natural digital workspace.
 
-## What is Chef?
+## What is Intra365?
 
-Chef is the central deployment orchestration system for the Intra365 enterprise integration framework. It manages the deployment, configuration, and lifecycle of all Intra365 services across Kubernetes clusters (Azure AKS).
+Intra365 is a reference architecture for an enterprise Intranet system. It demonstrates how to integrate multiple systems and services to create a natural digital workspace across Kubernetes clusters (Azure AKS).
 
 ## Purpose
 
-Chef serves as the **GitOps brain** for Intra365, providing:
+This reference architecture demonstrates:
 
 - **GitOps-driven deployments**: Infrastructure and application state managed declaratively through Git
 - **Service orchestration**: Coordinates deployment of all Intra365 Mates (microservices)
@@ -58,7 +58,7 @@ graph TB
 
 This documentation is designed for:
 
-- **DevOps Engineers**: Setting up and maintaining Chef infrastructure
+- **DevOps Engineers**: Setting up and maintaining infrastructure
 - **Developers**: Deploying and configuring Intra365 services
 - **Platform Engineers**: Architecting multi-environment deployments
 - **Security Engineers**: Implementing compliance and security controls
@@ -68,7 +68,7 @@ This documentation is designed for:
 
 Ready to dive in? Start with:
 
-1. [Key Concepts](./02-key-concepts.md) - Understanding GitOps and Chef's role
+1. [Key Concepts](./02-key-concepts.md) - Understanding GitOps and the reference architecture
 2. [Quick Start](./03-quick-start.md) - Deploy your first service in 5 minutes
 3. [Architecture Overview](./04-architecture-overview.md) - High-level system design
 

@@ -2,7 +2,7 @@
   "name": "chef-docs",
   "version": "0.0.1",
   "private": true,
-  "description": "GitOps deployment orchestration for Intra365 - The brain that binds everything together",
+  "description": "A reference architecture for an Intranet system that works by integrating all other systems forming a natural digital workspace",
   "keywords": [
     "gitops",
     "kubernetes",
