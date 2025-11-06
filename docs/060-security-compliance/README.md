@@ -4,10 +4,10 @@ This directory contains comprehensive ISO 27001:2022 compliance documentation fo
 
 ## 📁 Directory Structure
 
-### Pre-existing Documentation (01-09)
+### Pre-existing Documentation (09)
 - **01-09**: Existing security documentation (Zero Trust, RAISE 2.0, Security Gates, etc.)
 
-### Phase 1: Foundation & Core Documentation (10-16)
+### Phase 1: Foundation & Core Documentation (16)
 Establishes the ISMS foundation and organizational framework:
 - **10-iso27001-overview.md**: Introduction to ISO 27001:2022 compliance
 - **11-isms-framework.md**: Information Security Management System framework
@@ -17,7 +17,7 @@ Establishes the ISMS foundation and organizational framework:
 - **15-roles-responsibilities.md**: Security roles and RACI matrix
 - **16-asset-management.md**: Asset inventory and classification
 
-### Phase 2: Organizational Controls (20-32)
+### Phase 2: Organizational Controls (32)
 Implements 37 organizational security controls (Annex A.5):
 - Information security policies and governance
 - Roles, responsibilities, and segregation of duties
@@ -26,7 +26,7 @@ Implements 37 organizational security controls (Annex A.5):
 - Incident management and business continuity
 - Legal and regulatory compliance
 
-### Phase 3: People Controls (40-47)
+### Phase 3: People Controls (47)
 Implements 8 people-focused security controls (Annex A.6):
 - Employment screening and terms
 - Security awareness and training
@@ -36,7 +36,7 @@ Implements 8 people-focused security controls (Annex A.6):
 - Remote working policies
 - Security event reporting
 
-### Phase 4: Physical Controls (50-63)
+### Phase 4: Physical Controls (63)
 Implements 14 physical security controls (Annex A.7):
 - Physical security perimeters and entry
 - Securing offices and facilities
@@ -45,14 +45,14 @@ Implements 14 physical security controls (Annex A.7):
 - Equipment protection and maintenance
 - Secure disposal of equipment
 
-### Phase 5: Technological Controls (70-103)
+### Phase 5: Technological Controls (103)
 Implements 34 technological security controls (Annex A.8):
 - **70-79**: Access controls, authentication, capacity, malware, vulnerabilities
 - **80-87**: Data protection, backup, logging, monitoring, privileged access
 - **88-93**: Network security, web filtering, cryptography
 - **94-103**: Secure development lifecycle, coding, testing, change management
 
-### Phase 6: Integration & Templates (110-115)
+### Phase 6: Integration & Templates (115)
 Practical templates and integration documentation:
 - **110-control-mapping.md**: Maps ISO 27001 controls to existing measures
 - **111-compliance-checklist.md**: Comprehensive compliance checklist
@@ -61,7 +61,7 @@ Practical templates and integration documentation:
 - **114-gap-analysis-template.md**: Gap analysis template
 - **115-evidence-collection.md**: Evidence management guide
 
-### Phase 7: Automation & Tooling (120-123)
+### Phase 7: Automation & Tooling (123)
 Automated compliance checking and reporting:
 - **120-automated-compliance-checks.md**: Automated validation
 - **121-security-metrics-dashboard.md**: KPIs and security metrics
@@ -103,14 +103,14 @@ Each control document includes:
 ## 🚀 Getting Started
 
 ### For Security Teams
-1. Start with [10-iso27001-overview.md](10-iso27001-overview) for introduction
-2. Review [11-isms-framework.md](11-isms-framework) for ISMS structure
-3. Check [12-statement-of-applicability.md](12-statement-of-applicability) for control status
-4. Use [13-risk-assessment-methodology.md](13-risk-assessment-methodology) for risk management
+1. Start with [10-iso27001-overview.md](iso27001-overview) for introduction
+2. Review [11-isms-framework.md](isms-framework) for ISMS structure
+3. Check [12-statement-of-applicability.md](statement-of-applicability) for control status
+4. Use [13-risk-assessment-methodology.md](risk-assessment-methodology) for risk management
 
 ### For Development Teams
 1. Focus on Phase 5 (Technological Controls 70-103)
-2. Review secure development lifecycle controls (94-103)
+2. Review secure development lifecycle controls (103)
 3. Implement automated compliance checks (120)
 
 ### For Operations Teams
@@ -119,16 +119,16 @@ Each control document includes:
 3. Implement continuous monitoring (123)
 
 ### For Management
-1. Review [15-roles-responsibilities.md](15-roles-responsibilities) for governance
-2. Check [14-security-policy-framework.md](14-security-policy-framework) for policy structure
-3. Review [111-compliance-checklist.md](111-compliance-checklist) for status
+1. Review [15-roles-responsibilities.md](roles-responsibilities) for governance
+2. Check [14-security-policy-framework.md](security-policy-framework) for policy structure
+3. Review [111-compliance-checklist.md](compliance-checklist) for status
 
 ## 🔗 Integration with Existing Documentation
 
 This ISO 27001 documentation integrates with:
-- **RAISE 2.0 Compliance** ([02-raise-2-0-compliance](02-raise-2-0-compliance))
-- **Zero Trust Architecture** ([01-zero-trust-architecture](01-zero-trust-architecture))
-- **Security Gates** ([03-security-gates](03-security-gates))
+- **RAISE 2.0 Compliance** ([02-raise-2-0-compliance](raise-2-0-compliance))
+- **Zero Trust Architecture** ([01-zero-trust-architecture](zero-trust-architecture))
+- **Security Gates** ([03-security-gates](security-gates))
 - **Operations Runbooks** (../070-operations-runbooks/)
 
 ## 📝 Compliance Status
@@ -139,7 +139,7 @@ Current overall compliance status:
 - **Physical Controls**: 75% implemented (cloud-based, limited physical infrastructure)
 - **Technological Controls**: 80% implemented
 
-See [12-statement-of-applicability.md](12-statement-of-applicability) for detailed status.
+See [12-statement-of-applicability.md](statement-of-applicability) for detailed status.
 
 ## 🔄 Continuous Improvement
 
