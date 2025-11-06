@@ -43,7 +43,7 @@ export default function Home(): React.ReactElement {
                 <div className="text--center padding-horiz--md">
                   <h2>A Complete Reference Architecture</h2>
                   <p className={styles.introText}>
-                    Chef provides comprehensive documentation covering both technology patterns 
+                    This reference architecture provides comprehensive documentation covering both technology patterns 
                     and human processes for building, deploying, and operating enterprise-grade 
                     GitOps platforms. Use this as a blueprint for your own implementation.
                   </p>
