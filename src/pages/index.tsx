@@ -38,11 +38,11 @@ export default function Home(): React.ReactElement {
       <main>
         <section className={styles.features}>
           <div className="container">
-            <div className="row" style={{marginBottom: '3rem'}}>
+            <div className={clsx('row', styles.introSection)}>
               <div className="col">
                 <div className="text--center padding-horiz--md">
                   <h2>A Complete Reference Architecture</h2>
-                  <p style={{fontSize: '1.1rem', maxWidth: '800px', margin: '0 auto'}}>
+                  <p className={styles.introText}>
                     Chef provides comprehensive documentation covering both technology patterns 
                     and human processes for building, deploying, and operating enterprise-grade 
                     GitOps platforms. Use this as a blueprint for your own implementation.
@@ -72,7 +72,7 @@ export default function Home(): React.ReactElement {
                 </div>
               </div>
             </div>
-            <div className="row" style={{marginTop: '2rem'}}>
+            <div className={clsx('row', styles.featureRow)}>
               <div className="col col--4">
                 <div className="text--center padding-horiz--md">
                   <h3>🔄 GitOps Patterns</h3>

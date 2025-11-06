@@ -25,3 +25,17 @@
   padding: 2rem 0;
   width: 100%;
 }
+
+.introSection {
+  margin-bottom: 3rem;
+}
+
+.introText {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.featureRow {
+  margin-top: 2rem;
+}
