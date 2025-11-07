@@ -80,7 +80,8 @@ const config: Config = {
       title: 'Intra365',
       logo: {
         alt: 'Intra365 Logo',
-        src: 'img/logo.svg',
+        src: 'img/placeholder.svg',
+        href: '/',
       },
       items: [
         {
