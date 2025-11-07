@@ -48,7 +48,7 @@ We follow **convention over configuration**, establishing standardized deploymen
 
 Intra365 services (called "Mates") communicate through a service mesh pattern:
 
-- **NATS Messaging**: Event-driven architecture for loose coupling
+- **Event-Driven Messaging**: NATS or Kafka for event-driven architecture and loose coupling
 - **Service Discovery**: Automatic registration and discovery
 - **Load Balancing**: Built-in resilience and scaling
 - **Observability**: Distributed tracing and monitoring

@@ -81,7 +81,7 @@ Serves as the persistent store for:
 - Audit logs and compliance data
 
 ### NATS Event Bus
-Enables event-driven communication and orchestration:
+Enables event-driven communication and orchestration (NATS or Kafka can be used):
 - Asynchronous message passing
 - Publish-subscribe patterns
 - Request-reply patterns
