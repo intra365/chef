@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Intra365',
-  tagline: 'Reference Architecture for Technology & Human Processes',
+  tagline: 'ICING Framework: Intranet Connectivity, Integration & Governance',
   favicon: 'img/favicon.ico',
 
   url: 'https://chef.intra365.dev',
