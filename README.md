@@ -1,10 +1,40 @@
 # Intra365
 
-A reference architecture for an Intranet system that works by integrating all other systems forming a natural digital workspace
+A reference architecture for an enterprise intranet system built on the **ICING** (Intranet Connectivity, Integration & Governance) framework that integrates all other systems to form a natural digital workspace.
 
 ## Overview
 
-This repository contains a reference architecture for the Intra365 enterprise integration framework. It demonstrates the deployment, configuration, and lifecycle management of Intra365 services across Kubernetes clusters (Azure AKS).
+This repository contains a reference architecture for the Intra365 enterprise integration framework built on ICING principles. It demonstrates the deployment, configuration, and lifecycle management of Intra365 services across Kubernetes clusters (Azure AKS) while maintaining complete isolation from commercial off-the-shelf (COTS) products.
+
+## What is ICING?
+
+**ICING** (Intranet Connectivity, Integration & Governance) is an integration framework for enterprise intranets designed to connect, extend, and govern digital workplace components across platforms.
+
+### Core Principle
+
+> *Isolate custom logic and integrations outside of COTS systems to ensure portability, reusability, and long-term maintainability across platforms and migrations.*
+
+### Architecture
+
+**Client-side layer**
+- **Office add-ins and extensions** — integrate directly within Microsoft Office applications
+- **SharePoint web parts and extensions** — connect ICING services to intranet portals
+- **JavaScript SDK** — enables deep integration with web apps and portals
+- **Chrome extension** — provides cross-site UI enhancements and workflow triggers
+
+**Backend layer**
+- **Self-hosted Kubernetes** — orchestrates ICING microservices
+- **PostgreSQL (with PgVector)** — persistent store for data, context, and embeddings
+- **NATS (or Kafka)** — event-driven communication and orchestration
+- **Optional self-hosted LLM** — enables secure, isolated AI reasoning and automation
+
+### Key Benefits
+
+- **Connectivity** – unify scattered intranet tools and content under one integration layer
+- **Integration** – decouple logic from vendor ecosystems while maintaining seamless user experience
+- **Governance** – ensure data sovereignty, compliance, and consistent lifecycle management
+- **Portability** – enable migration between Microsoft 365, Google Workspace, or hybrid environments without rewriting custom integrations
+- **Extensibility** – add or remove modules (apps, services, workflows) independently
 
 ## Purpose
 
@@ -18,8 +48,8 @@ This repository contains a reference architecture for the Intra365 enterprise in
 
 This repository contains comprehensive documentation built with Docusaurus 3 and TypeScript:
 
-- **📘 Introduction**: Getting started and core concepts
-- **🏗️ Architecture**: System design and patterns
+- **📘 Introduction**: Getting started, ICING framework, and core concepts
+- **🏗️ Architecture**: ICING system design and patterns
 - **☁️ Infrastructure**: Platform setup and configuration
 - **🚀 Deployment Workflows**: Deployment processes
 - **⚙️ Service Configurations**: Service-specific guides

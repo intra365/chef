@@ -6,32 +6,158 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Warm, bakery-inspired color palette */
+  --ifm-color-primary: #8b5a2b;
+  --ifm-color-primary-dark: #7a4d24;
+  --ifm-color-primary-darker: #6f471f;
+  --ifm-color-primary-darkest: #5c3a1a;
+  --ifm-color-primary-light: #9c6632;
+  --ifm-color-primary-lighter: #a36b35;
+  --ifm-color-primary-lightest: #b5793f;
+  
+  /* Accent color for highlights */
+  --ifm-color-secondary: #d4a574;
+  --ifm-color-secondary-dark: #c69a66;
+  --ifm-color-secondary-darker: #be925e;
+  --ifm-color-secondary-darkest: #a5804e;
+  --ifm-color-secondary-light: #dcae82;
+  --ifm-color-secondary-lighter: #e0b387;
+  --ifm-color-secondary-lightest: #ecc199;
+  
+  /* Background colors */
+  --ifm-background-color: #faf7f4;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-card-background-color: #ffffff;
+  
+  /* Text colors */
+  --ifm-font-color-base: #2d2d2d;
+  --ifm-color-emphasis-700: #666666;
+  --ifm-color-emphasis-800: #2d2d2d;
+  
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(139, 90, 43, 0.1);
+  
+  /* Custom border colors */
+  --ifm-color-emphasis-200: #e8e3de;
+  --ifm-color-emphasis-300: #d4c8bd;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode with warm tones */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #f5d5a8;
+  --ifm-color-primary-dark: #e8c892;
+  --ifm-color-primary-darker: #e0c086;
+  --ifm-color-primary-darkest: #d1ad6e;
+  --ifm-color-primary-light: #f7dcb4;
+  --ifm-color-primary-lighter: #f8e0ba;
+  --ifm-color-primary-lightest: #fceacc;
+  
+  --ifm-color-secondary: #d4a574;
+  
+  --ifm-background-color: #111111;
+  --ifm-background-surface-color: #1e1e1e;
+  --ifm-card-background-color: #282828;
+  
+  /* Improved text colors for better contrast */
+  --ifm-font-color-base: #ffffff;
+  --ifm-color-emphasis-700: #d0d0d0;
+  --ifm-color-emphasis-800: #ffffff;
+  --ifm-color-emphasis-600: #b8b8b8;
+  --ifm-color-emphasis-500: #a0a0a0;
+  
+  /* Better border colors */
+  --ifm-color-emphasis-200: #404040;
+  --ifm-color-emphasis-300: #505050;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(245, 213, 168, 0.2);
 }
 
 /* Custom styles for Chef documentation */
 .hero--primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #f8f4f0 0%, #faf7f4 100%);
+}
+
+/* Enhanced navbar styling */
+.navbar {
+  background-color: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 0 2px 8px rgba(139, 90, 43, 0.1);
+}
+
+.navbar__brand:hover {
+  color: var(--ifm-color-primary);
+}
+
+.navbar__item.navbar__link {
+  color: var(--ifm-font-color-base);
+  font-weight: 500;
+}
+
+.navbar__item.navbar__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* Dark mode navbar enhancements */
+[data-theme='dark'] .navbar {
+  background-color: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .navbar__title {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+[data-theme='dark'] .navbar__item.navbar__link {
+  color: #ffffff;
+}
+
+[data-theme='dark'] .navbar__item.navbar__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* Enhanced button styling */
+.button {
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.button--primary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.button--primary:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(139, 90, 43, 0.3);
+}
+
+.button--secondary {
+  background-color: transparent;
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+
+.button--secondary:hover {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+/* Enhanced card styling */
+.card {
+  border-radius: 16px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(139, 90, 43, 0.1);
+  border-color: var(--ifm-color-primary-light);
 }
 
 /* Enhance info admonitions for neurodiversity-friendly design */
@@ -65,9 +191,73 @@ button:focus {
 /* Better spacing for content */
 article header h1 {
   margin-bottom: 1.5rem;
+  color: var(--ifm-color-primary);
 }
 
 /* Prevent external link icons from wrapping to a new line */
 a[target="_blank"] {
   white-space: nowrap;
+}
+
+/* Enhanced sidebar styling */
+.theme-doc-sidebar-container {
+  border-right: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.menu__link {
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.menu__link:hover {
+  background-color: rgba(139, 90, 43, 0.1);
+  color: var(--ifm-color-primary);
+}
+
+.menu__link--active {
+  background-color: rgba(139, 90, 43, 0.15);
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+/* Enhanced pagination */
+.pagination-nav__link {
+  border-radius: 12px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: all 0.3s ease;
+}
+
+.pagination-nav__link:hover {
+  border-color: var(--ifm-color-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(139, 90, 43, 0.1);
+}
+
+/* Enhanced table of contents */
+.table-of-contents__link {
+  color: var(--ifm-color-emphasis-700);
+  transition: color 0.2s ease;
+}
+
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+/* Footer styling */
+.footer {
+  background-color: var(--ifm-color-primary-darkest);
+}
+
+.footer__title {
+  color: var(--ifm-color-secondary-lighter);
+}
+
+.footer__link-item {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-secondary-light);
 }
