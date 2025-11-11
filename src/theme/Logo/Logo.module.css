@@ -1,0 +1,45 @@
+.logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #8b5a2b; /* Hero CTA brown color */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(139, 90, 43, 0.3);
+}
+
+.logoText {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  line-height: 1;
+}
+
+/* Dark mode support - invert colors */
+[data-theme='dark'] .logo {
+  background-color: #d4a574; /* Light brown/cream for dark mode */
+}
+
+[data-theme='dark'] .logoText {
+  color: #2d2d2d; /* Dark text on light background */
+}
+
+/* Responsive sizing */
+@media screen and (max-width: 996px) {
+  .logo {
+    width: 28px;
+    height: 28px;
+  }
+  
+  .logoText {
+    font-size: 16px;
+  }
+}
