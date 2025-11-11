@@ -165,7 +165,7 @@ const config: Config = {
     },
     prism: {
       theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      darkTheme: prismThemes.vsDark,
       additionalLanguages: [
         'bash',
         'yaml',
@@ -179,7 +179,7 @@ const config: Config = {
       ],
     },
     mermaid: {
-      theme: {light: 'neutral', dark: 'dark'},
+      theme: {light: 'neutral', dark: 'forest'},
       options: {
         maxTextSize: 50000,
         fontFamily: 'inherit',

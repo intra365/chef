@@ -6,82 +6,92 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  /* Warm, bakery-inspired color palette */
-  --ifm-color-primary: #8b5a2b;
-  --ifm-color-primary-dark: #7a4d24;
-  --ifm-color-primary-darker: #6f471f;
-  --ifm-color-primary-darkest: #5c3a1a;
-  --ifm-color-primary-light: #9c6632;
-  --ifm-color-primary-lighter: #a36b35;
-  --ifm-color-primary-lightest: #b5793f;
+  /* Dark chocolate brown color palette - Light Mode */
+  --ifm-color-primary: #5c3d2e;
+  --ifm-color-primary-dark: #523627;
+  --ifm-color-primary-darker: #4d3324;
+  --ifm-color-primary-darkest: #3f2a1e;
+  --ifm-color-primary-light: #664435;
+  --ifm-color-primary-lighter: #6b4738;
+  --ifm-color-primary-lightest: #7d5343;
   
-  /* Accent color for highlights */
-  --ifm-color-secondary: #d4a574;
-  --ifm-color-secondary-dark: #c69a66;
-  --ifm-color-secondary-darker: #be925e;
-  --ifm-color-secondary-darkest: #a5804e;
-  --ifm-color-secondary-light: #dcae82;
-  --ifm-color-secondary-lighter: #e0b387;
-  --ifm-color-secondary-lightest: #ecc199;
+  /* Accent color - warm brown tones */
+  --ifm-color-secondary: #8b6f47;
+  --ifm-color-secondary-dark: #7d6340;
+  --ifm-color-secondary-darker: #755d3c;
+  --ifm-color-secondary-darkest: #614d32;
+  --ifm-color-secondary-light: #997b4e;
+  --ifm-color-secondary-lighter: #a18152;
+  --ifm-color-secondary-lightest: #b5935e;
   
-  /* Background colors */
-  --ifm-background-color: #faf7f4;
+  /* Background colors - light warm tones */
+  --ifm-background-color: #faf8f6;
   --ifm-background-surface-color: #ffffff;
   --ifm-card-background-color: #ffffff;
   
   /* Text colors */
-  --ifm-font-color-base: #2d2d2d;
-  --ifm-color-emphasis-700: #666666;
-  --ifm-color-emphasis-800: #2d2d2d;
+  --ifm-font-color-base: #3a2a1f;
+  --ifm-color-emphasis-700: #5c4a3a;
+  --ifm-color-emphasis-800: #3a2a1f;
   
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(139, 90, 43, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(92, 61, 46, 0.1);
   
   /* Custom border colors */
-  --ifm-color-emphasis-200: #e8e3de;
-  --ifm-color-emphasis-300: #d4c8bd;
+  --ifm-color-emphasis-200: #e8e0d8;
+  --ifm-color-emphasis-300: #d4c4b5;
 }
 
-/* Dark mode with warm tones */
+/* Dark mode with dark chocolate brown theme */
 [data-theme='dark'] {
-  --ifm-color-primary: #f5d5a8;
-  --ifm-color-primary-dark: #e8c892;
-  --ifm-color-primary-darker: #e0c086;
-  --ifm-color-primary-darkest: #d1ad6e;
-  --ifm-color-primary-light: #f7dcb4;
-  --ifm-color-primary-lighter: #f8e0ba;
-  --ifm-color-primary-lightest: #fceacc;
+  /* Dark chocolate brown as primary color */
+  --ifm-color-primary: #a67c52;
+  --ifm-color-primary-dark: #956f4a;
+  --ifm-color-primary-darker: #8d6946;
+  --ifm-color-primary-darkest: #74563a;
+  --ifm-color-primary-light: #b0865a;
+  --ifm-color-primary-lighter: #b68c5e;
+  --ifm-color-primary-lightest: #c89d6e;
   
-  --ifm-color-secondary: #d4a574;
+  --ifm-color-secondary: #8b6f47;
   
-  --ifm-background-color: #111111;
-  --ifm-background-surface-color: #1e1e1e;
-  --ifm-card-background-color: #282828;
+  /* Dark chocolate brown backgrounds */
+  --ifm-background-color: #1a1410;
+  --ifm-background-surface-color: #2a1f1a;
+  --ifm-card-background-color: #352821;
   
-  /* Improved text colors for better contrast */
-  --ifm-font-color-base: #ffffff;
-  --ifm-color-emphasis-700: #d0d0d0;
-  --ifm-color-emphasis-800: #ffffff;
-  --ifm-color-emphasis-600: #b8b8b8;
-  --ifm-color-emphasis-500: #a0a0a0;
+  /* Text colors optimized for dark chocolate background */
+  --ifm-font-color-base: #f5ede5;
+  --ifm-color-emphasis-700: #d4c4b5;
+  --ifm-color-emphasis-800: #f5ede5;
+  --ifm-color-emphasis-600: #bfae9f;
+  --ifm-color-emphasis-500: #a89886;
   
-  /* Better border colors */
-  --ifm-color-emphasis-200: #404040;
-  --ifm-color-emphasis-300: #505050;
+  /* Border colors for dark chocolate theme */
+  --ifm-color-emphasis-200: #3d2e23;
+  --ifm-color-emphasis-300: #4d3d32;
   
-  --docusaurus-highlighted-code-line-bg: rgba(245, 213, 168, 0.2);
+  --docusaurus-highlighted-code-line-bg: rgba(166, 124, 82, 0.2);
 }
 
 /* Custom styles for Chef documentation */
 .hero--primary {
-  background: linear-gradient(135deg, #f8f4f0 0%, #faf7f4 100%);
+  background: linear-gradient(135deg, #faf8f6 0%, #f5ede5 100%);
+}
+
+[data-theme='dark'] .hero--primary {
+  background: linear-gradient(135deg, #2a1f1a 0%, #352821 100%);
 }
 
 /* Enhanced navbar styling */
 .navbar {
   background-color: var(--ifm-background-surface-color);
   border-bottom: 1px solid var(--ifm-color-emphasis-200);
-  box-shadow: 0 2px 8px rgba(139, 90, 43, 0.1);
+  box-shadow: 0 2px 8px rgba(92, 61, 46, 0.1);
+}
+
+[data-theme='dark'] .navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 .navbar__brand:hover {
@@ -101,16 +111,16 @@
 [data-theme='dark'] .navbar {
   background-color: var(--ifm-background-surface-color);
   border-bottom: 1px solid var(--ifm-color-emphasis-300);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 }
 
 [data-theme='dark'] .navbar__title {
-  color: #ffffff !important;
+  color: #f5ede5 !important;
   font-weight: 600;
 }
 
 [data-theme='dark'] .navbar__item.navbar__link {
-  color: #ffffff;
+  color: #f5ede5;
 }
 
 [data-theme='dark'] .navbar__item.navbar__link:hover {
@@ -133,7 +143,11 @@
   background-color: var(--ifm-color-primary-dark);
   border-color: var(--ifm-color-primary-dark);
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(139, 90, 43, 0.3);
+  box-shadow: 0 8px 25px rgba(92, 61, 46, 0.3);
+}
+
+[data-theme='dark'] .button--primary:hover {
+  box-shadow: 0 8px 25px rgba(166, 124, 82, 0.4);
 }
 
 .button--secondary {
@@ -156,8 +170,13 @@
 
 .card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 20px 40px rgba(139, 90, 43, 0.1);
+  box-shadow: 0 20px 40px rgba(92, 61, 46, 0.1);
   border-color: var(--ifm-color-primary-light);
+}
+
+[data-theme='dark'] .card:hover {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  border-color: var(--ifm-color-primary);
 }
 
 /* Enhance info admonitions for neurodiversity-friendly design */
@@ -210,14 +229,22 @@ a[target="_blank"] {
 }
 
 .menu__link:hover {
-  background-color: rgba(139, 90, 43, 0.1);
+  background-color: rgba(92, 61, 46, 0.1);
   color: var(--ifm-color-primary);
 }
 
+[data-theme='dark'] .menu__link:hover {
+  background-color: rgba(166, 124, 82, 0.2);
+}
+
 .menu__link--active {
-  background-color: rgba(139, 90, 43, 0.15);
+  background-color: rgba(92, 61, 46, 0.15);
   color: var(--ifm-color-primary);
   font-weight: 600;
+}
+
+[data-theme='dark'] .menu__link--active {
+  background-color: rgba(166, 124, 82, 0.25);
 }
 
 /* Enhanced pagination */
@@ -230,7 +257,11 @@ a[target="_blank"] {
 .pagination-nav__link:hover {
   border-color: var(--ifm-color-primary);
   transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(139, 90, 43, 0.1);
+  box-shadow: 0 8px 25px rgba(92, 61, 46, 0.1);
+}
+
+[data-theme='dark'] .pagination-nav__link:hover {
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
 }
 
 /* Enhanced table of contents */
@@ -250,8 +281,17 @@ a[target="_blank"] {
   background-color: var(--ifm-color-primary-darkest);
 }
 
+[data-theme='dark'] .footer {
+  background-color: #1a1410;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+}
+
 .footer__title {
   color: var(--ifm-color-secondary-lighter);
+}
+
+[data-theme='dark'] .footer__title {
+  color: var(--ifm-color-primary-light);
 }
 
 .footer__link-item {
@@ -260,4 +300,8 @@ a[target="_blank"] {
 
 .footer__link-item:hover {
   color: var(--ifm-color-secondary-light);
+}
+
+[data-theme='dark'] .footer__link-item:hover {
+  color: var(--ifm-color-primary-light);
 }
