@@ -15,13 +15,11 @@ function HomepageHeader() {
         <div className={styles.heroContent}>
           <div className={styles.heroTagline}>AI Crafted with Excellence</div>
           <Heading as="h1" className={styles.heroTitle}>
-            <span className={styles.heroTitlePrimary}>Architecture</span>
-            <span className={styles.heroTitleAccent}>Perfected</span>
+            <span className={styles.heroTitlePrimary}>Intranet Glazing</span>
+            <span className={styles.heroTitleAccent}>Reference Architecture</span>
           </Heading>
           <p className={styles.heroSubtitle}>
-            Every system tells a story. From classic patterns to custom 
-            implementations, we bring excellence to every deployment with our 
-            AI crafted reference architecture.
+           Most organizations already have an intranet or a Microsoft 365-based digital workplace – but employees still complain that it’s confusing, cluttered, and hard to love. The problem often isn’t the platform; it’s the glazing.
           </p>
           <div className={styles.buttons}>
             <Link
