@@ -16,7 +16,7 @@ function HomepageHeader() {
           <div className={styles.heroTagline}>AI Crafted with Excellence</div>
           <Heading as="h1" className={styles.heroTitle}>
             <span className={styles.heroTitlePrimary}>Intranet Glazing</span>
-            <span className={styles.heroTitleAccent}>Reference Architecture</span>
+            <span className={styles.heroTitleAccent}>An Reference Architecture</span>
           </Heading>
           <p className={styles.heroSubtitle}>
            Most organizations already have an intranet or a Microsoft 365-based digital workplace – but employees still complain that it’s confusing, cluttered, and hard to love. The problem often isn’t the platform; it’s the glazing.
