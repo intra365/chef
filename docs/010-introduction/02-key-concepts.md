@@ -35,38 +35,59 @@ Add or remove modules (apps, services, workflows) independently. The modular arc
 
 ## GitOps & Convention Over Configuration
 
-Intra365 embraces **GitOps** principles where all infrastructure and application state is managed declaratively through Git:
+Intra365 embraces **GitOps** principles[^1] where all infrastructure and application state is managed declaratively through Git:
 
 - **Version Control**: Every change is tracked and auditable
 - **Rollback Capabilities**: Easy recovery from issues
 - **Automation**: CI/CD pipelines drive deployments
 - **Consistency**: Same process across all environments
 
-We follow **convention over configuration**, establishing standardized deployment patterns that reduce boilerplate and increase developer productivity.
+We follow **convention over configuration**[^2], establishing standardized deployment patterns that reduce boilerplate and increase developer productivity.
+
+[^1]: GitOps is a paradigm that uses Git repositories as the single source of truth for declarative infrastructure and applications. Tools like Flux and ArgoCD automatically sync the desired state from Git to the live environment. See [GitOps Principles](https://www.gitops.tech/).
+
+[^2]: Convention over configuration is a software design principle that provides sensible defaults to reduce the number of decisions developers must make, while still allowing for customization when needed. This approach is popularized by frameworks like Ruby on Rails and followed by modern cloud-native platforms. See [The Twelve-Factor App](https://12factor.net/).
 
 ## Service Mesh Architecture
 
-Intra365 services (called "Mates") communicate through a service mesh pattern:
+Intra365 services (called "Mates") communicate through a service mesh pattern[^3]:
 
 - **Event-Driven Messaging**: NATS or Kafka for event-driven architecture and loose coupling
 - **Service Discovery**: Automatic registration and discovery
 - **Load Balancing**: Built-in resilience and scaling
 - **Observability**: Distributed tracing and monitoring
 
+[^3]: A service mesh is a dedicated infrastructure layer for handling service-to-service communication, providing features like traffic management, security, and observability without requiring application code changes. See [Service Mesh Interface (SMI)](https://smi-spec.io/).
+
 ## Zero-Trust Security
 
-Security is embedded at every layer following zero-trust principles:
+Security is embedded at every layer following zero-trust principles[^4]:
 
 - **Identity Verification**: Every request is authenticated
 - **Least Privilege**: Minimal access rights by default
 - **Network Segmentation**: Isolated service boundaries
 - **Encryption**: Data protected in transit and at rest
 
+[^4]: Zero-trust architecture is a security model based on the principle of "never trust, always verify." It eliminates the concept of a trusted internal network and requires strict identity verification for every person and device accessing resources. See [NIST SP 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf).
+
 ## Next Steps
 
 - [Architecture Overview](./04-architecture-overview.md) - Understand the system design
 - [System Architecture](../020-architecture/01-system-architecture.md) - Deep dive into ICING architecture layers
 - [Quick Start](./03-quick-start.md) - Deploy your first service
+
+---
+
+## References
+
+- [GitOps Principles](https://www.gitops.tech/) - GitOps Working Group
+- [NIST Zero Trust Architecture](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf) - NIST SP 800-207
+- [Service Mesh Interface (SMI)](https://smi-spec.io/) - Cloud Native Computing Foundation
+- [Event-Driven Architecture Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/) - Gregor Hohpe & Bobby Woolf
+- [NATS.io Documentation](https://docs.nats.io/) - NATS.io
+- [Kubernetes Service Mesh: A Comparison](https://istio.io/latest/about/service-mesh/) - Istio Documentation
+- [The Twelve-Factor App](https://12factor.net/) - Heroku Dev Center
+- [Convention Over Configuration](https://en.wikipedia.org/wiki/Convention_over_configuration) - Software Design Pattern
 
 ---
 

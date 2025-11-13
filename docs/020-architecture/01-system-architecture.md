@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # System Architecture
 
-The Intra365 system architecture is built on the **ICING** (Intranet Connectivity, Integration & Governance) framework, which provides a comprehensive approach to enterprise integration while maintaining complete isolation from COTS products.
+The Intra365 system architecture is built on the **ICING** (Intranet Connectivity, Integration & Governance) framework, which provides a comprehensive approach to enterprise integration while maintaining complete isolation from COTS products.[^1]
+
+[^1]: Commercial off-the-shelf (COTS) products like Microsoft 365 and Google Workspace provide standardized functionality, but customization within these systems creates vendor lock-in. The ICING framework addresses this by isolating custom logic in an independent layer. See [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/).
 
 ## ICING Architecture Overview
 
@@ -67,25 +69,34 @@ Provides cross-site UI enhancements and workflow triggers, extending functionali
 The backend layer hosts all custom logic and integration services in a self-managed environment:
 
 ### Self-hosted Kubernetes
-Orchestrates ICING microservices (called "Mates") with:
+Orchestrates ICING microservices (called "Mates") with:[^2]
+
 - Container orchestration and scaling
 - Service mesh for inter-service communication
 - Health monitoring and auto-recovery
 - GitOps-based deployments
 
+[^2]: Kubernetes is an open-source container orchestration platform that automates deployment, scaling, and management of containerized applications. It has become the de facto standard for cloud-native applications. See [Kubernetes Documentation](https://kubernetes.io/docs/home/).
+
 ### PostgreSQL (with PgVector)
-Serves as the persistent store for:
+Serves as the persistent store for:[^3]
+
 - Application data
 - Context and state management
 - Vector embeddings for AI-powered search
 - Audit logs and compliance data
 
+[^3]: PostgreSQL is an advanced open-source relational database. The PgVector extension adds vector similarity search capabilities, enabling efficient storage and querying of embeddings for AI applications. See [PostgreSQL Documentation](https://www.postgresql.org/docs/) and [PgVector](https://github.com/pgvector/pgvector).
+
 ### NATS Event Bus
-Enables event-driven communication and orchestration (NATS or Kafka can be used):
+Enables event-driven communication and orchestration (NATS or Kafka can be used):[^4]
+
 - Asynchronous message passing
 - Publish-subscribe patterns
 - Request-reply patterns
 - Stream processing
+
+[^4]: NATS is a cloud-native messaging system designed for modern distributed systems. It provides lightweight pub-sub, request-reply, and streaming capabilities with strong security and resilience. See [NATS.io Documentation](https://docs.nats.io/).
 
 ### Optional Self-hosted LLM
 Enables secure, isolated AI reasoning and automation:
@@ -193,6 +204,18 @@ Security follows zero-trust principles with multiple layers:
 - [Integration Points](./04-integration-points.md) - How ICING connects to COTS systems
 - [Deployment Pipeline](./05-deployment-pipeline.md) - CI/CD workflow details
 - [Infrastructure Setup](../030-infrastructure/01-azure-aks-setup.md) - Deploy your ICING backend
+
+---
+
+## References
+
+- [Microservices Patterns](https://microservices.io/patterns/microservices.html) - Chris Richardson
+- [Domain-Driven Design](https://www.domainlanguage.com/ddd/) - Eric Evans
+- [Building Microservices](https://samnewman.io/books/building_microservices/) - Sam Newman
+- [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) - Gregor Hohpe & Bobby Woolf
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - Cloud Native Computing Foundation
+- [The Art of Scalability](https://akfpartners.com/growth-blog/the-art-of-scalability) - AKF Partners
+- [Azure Architecture Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/) - Microsoft Learn
 
 ---
 
