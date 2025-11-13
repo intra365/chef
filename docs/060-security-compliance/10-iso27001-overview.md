@@ -199,11 +199,35 @@ Each of the 93 controls is documented with:
 
 ## Next Steps
 
-1. **Establish ISMS Framework**: [ISMS Framework](isms-framework)
-2. **Create Statement of Applicability**: [Statement of Applicability](statement-of-applicability)
-3. **Define Risk Assessment Process**: [Risk Assessment Methodology](risk-assessment-methodology)
-4. **Implement Controls**: Follow Phases 2-5 documentation
-5. **Prepare for Audit**: [Audit Preparation](audit-preparation)
+1. Review the [ISMS Framework](isms-framework) for implementation details
+2. Understand [Risk Assessment Methodology](risk-assessment-methodology)
+3. Review individual [Control Implementation Guides](category/controls)
+4. Establish [Statement of Applicability](statement-of-applicability)
+
+---
+
+## References
+
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - ISO Official Standard
+- [ISO/IEC 27002:2022 - Information Security Controls](https://www.iso.org/standard/75652.html) - ISO Implementation Guidance
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - NIST
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Center for Internet Security
+- [ISO 27001 Implementation Guide](https://www.itgovernance.co.uk/iso27001) - IT Governance
+- [GDPR and ISO 27001 Alignment](https://gdpr.eu/iso-27001/) - GDPR.eu
+- [Azure Compliance Documentation](https://learn.microsoft.com/en-us/azure/compliance/) - Microsoft Learn
+- [Kubernetes Security Best Practices](https://kubernetes.io/docs/concepts/security/) - Kubernetes Documentation
+
+[^1]: **Information Security Management System (ISMS)**: A systematic approach to managing sensitive company information so that it remains secure. It includes people, processes, and IT systems by applying a risk management process. ISO 27001 provides the framework for establishing, implementing, maintaining, and continually improving an ISMS.
+
+[^2]: **Annex A Controls**: The 93 security controls in ISO 27001:2022 Annex A organized into four categories (Organizational, People, Physical, Technological). Organizations must determine which controls are applicable to their specific context and document this in a Statement of Applicability (SoA).
+
+[^3]: **Plan-Do-Check-Act (PDCA) Cycle**: A four-stage iterative management method used for continuous improvement. In ISMS context: Plan (establish ISMS), Do (implement and operate), Check (monitor and review), Act (maintain and improve).
+
+[^4]: **Risk Treatment**: The process of selecting and implementing measures to modify risk. ISO 27001 recognizes four options: risk modification (apply controls), risk retention (accept the risk), risk avoidance (eliminate risk source), or risk sharing (transfer/outsource).
+
+---
+
+**Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
 
 ## Resources
 

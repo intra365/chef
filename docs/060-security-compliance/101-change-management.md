@@ -98,9 +98,22 @@ Key performance indicators for this control:
 ## References
 
 - ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
-- Intra365 Security Policies and Procedures
+- [ISO/IEC 27002:2022 - Control A.8.32](https://www.iso.org/standard/75652.html) - Change management
+- [ITIL 4 Change Management](https://www.axelos.com/certifications/itil-service-management/itil-4-change-management) - AXELOS
+- [NIST SP 800-53 - CM-3: Configuration Change Control](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [GitOps Principles](https://opengitops.dev/) - OpenGitOps
+- [Azure Change Management](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/approvals/) - Microsoft Learn
+- [Kubernetes GitOps with Flux](https://fluxcd.io/flux/concepts/) - Flux CD
+
+[^1]: **Change Management**: A systematic approach to dealing with changes in IT systems and infrastructure, ensuring that changes are planned, tested, documented, and approved before implementation. This control prevents unauthorized or poorly tested changes from causing security incidents or service disruptions.
 
 ---
 
-**Questions or feedback?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
+**Related Documentation**:
+- [GitOps Workflow](../020-architecture/02-gitops-workflow.md)
+- [Deployment Pipeline](../020-architecture/05-deployment-pipeline.md)
+- [GitHub Actions Workflows](../040-deployment-workflows/05-github-actions-workflows.md)
+
+---
+
+**Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).

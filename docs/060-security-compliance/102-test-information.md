@@ -98,9 +98,22 @@ Key performance indicators for this control:
 ## References
 
 - ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
-- Intra365 Security Policies and Procedures
+- [ISO/IEC 27002:2022 - Control A.8.33](https://www.iso.org/standard/75652.html) - Test information
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - OWASP
+- [NIST SP 800-53 - SA-11: Developer Security Testing](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [GDPR Test Data Guidelines](https://gdpr.eu/test-data/) - GDPR.eu
+- [Azure Test Data Management](https://learn.microsoft.com/en-us/azure/architecture/data-guide/scenarios/test-data-management) - Microsoft Learn
+- [Data Masking Best Practices](https://www.postgresql.org/docs/current/ddl-rowsecurity.html) - PostgreSQL
+
+[^1]: **Test Information Security**: Controls to ensure that test data is appropriately selected, protected, and controlled. Production data should not be used in test environments without proper anonymization or masking to prevent data breaches and comply with privacy regulations like GDPR.
 
 ---
 
-**Questions or feedback?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
+**Related Documentation**:
+- [Environment Separation](100-separation-environments.md)
+- [Data Protection](../030-infrastructure/04-secrets-management.md)
+- [Testing Procedures](../070-operations-runbooks/05-testing-procedures.md)
+
+---
+
+**Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).

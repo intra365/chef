@@ -98,8 +98,20 @@ Key performance indicators for this control:
 ## References
 
 - ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
-- Intra365 Security Policies and Procedures
+- [ISO/IEC 27002:2022 - Control A.8.34](https://www.iso.org/standard/75652.html) - Protection of information systems during audit testing
+- [NIST SP 800-53 - CA-7: Continuous Monitoring](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [ISO 19011:2018 - Auditing Management Systems](https://www.iso.org/standard/70017.html) - ISO
+- [Kubernetes Audit Logging](https://kubernetes.io/docs/tasks/debug/debug-cluster/audit/) - Kubernetes Documentation
+- [Azure Security Center Auditing](https://learn.microsoft.com/en-us/azure/security-center/security-center-auditing) - Microsoft Learn
+- [IT Audit Best Practices](https://www.isaca.org/resources/it-audit) - ISACA
+
+[^1]: **Audit Testing Protection**: Controls to ensure that audit and security testing activities do not disrupt production systems or expose sensitive information. This includes using read-only access where possible, testing in isolated environments, and ensuring that audit tools themselves are secure and properly configured.
+
+---
+
+**Related Documentation**:
+- [Audit Logging](07-audit-logging.md)
+- [Observability](../030-infrastructure/05-observability.md)
 
 ---
 

@@ -98,9 +98,22 @@ Key performance indicators for this control:
 ## References
 
 - ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
-- Intra365 Security Policies and Procedures
+- [ISO/IEC 27002:2022 - Control A.8.31](https://www.iso.org/standard/75652.html) - Separation of development, test and production environments
+- [NIST SP 800-53 - CM-7: Least Functionality](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [Azure Environment Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/environments) - Microsoft Cloud Adoption Framework
+- [Kubernetes Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) - Kubernetes Documentation
+- [CIS Kubernetes Benchmark - Environment Separation](https://www.cisecurity.org/benchmark/kubernetes) - CIS
+- [DevOps Environment Management](https://docs.gitlab.com/ee/ci/environments/) - GitLab CI/CD
+
+[^1]: **Environment Separation**: The practice of maintaining distinct development, test/staging, and production environments to prevent unauthorized changes to production systems, reduce the risk of errors, and ensure proper testing before deployment. This is a fundamental security control that prevents development activities from impacting live services.
 
 ---
 
-**Questions or feedback?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
+**Related Documentation**:
+- [System Architecture](../020-architecture/01-system-architecture.md)
+- [GitOps Workflow](../020-architecture/02-gitops-workflow.md)
+- [Multi-Environment Strategy](../020-architecture/06-multi-environment.md)
+
+---
+
+**Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
