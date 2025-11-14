@@ -97,6 +97,22 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Controls A.5.31-A.5.37: Legal Compliance](https://www.iso.org/standard/75652.html) - ISO Standard
+- [GDPR - General Data Protection Regulation](https://gdpr-info.eu/) - EU Regulation 2016/679
+- [Norwegian Personal Data Act](https://lovdata.no/dokument/NL/lov/2018-06-15-38) - Lovdata
+- [ePrivacy Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058) - EU Directive 2002/58/EC
+- [NIS2 Directive](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new) - European Union Agency for Cybersecurity
+- [Intellectual Property Rights](https://www.wipo.int/portal/en/) - World Intellectual Property Organization
+- [Data Protection Impact Assessment Guide](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/) - UK ICO
+
+---
+
+**Need help with legal compliance?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

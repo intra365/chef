@@ -569,6 +569,23 @@ See [Compliance Checklist](compliance-checklist)
 - **GDPR**: Data inventory for personal data processing
 - **SOC 2**: Asset tracking for security and availability
 
+## References
+
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Information Security Controls](https://www.iso.org/standard/75652.html) - Control A.5.9 Inventory of assets
+- [NIST SP 800-53 Rev. 5 - CM-8: System Component Inventory](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - National Institute of Standards and Technology
+- [CIS Controls v8 - Control 1: Inventory and Control of Enterprise Assets](https://www.cisecurity.org/controls/v8) - Center for Internet Security
+- [Azure Resource Graph Documentation](https://learn.microsoft.com/en-us/azure/governance/resource-graph/) - Microsoft Azure
+- [CMDB Best Practices](https://www.servicenow.com/products/it-operations-management/what-is-cmdb.html) - ServiceNow
+- [ITIL Asset Management](https://www.axelos.com/certifications/itil-service-management) - AXELOS
+- [GDPR Article 30 - Records of Processing Activities](https://gdpr-info.eu/art-30-gdpr/) - EU Regulation
+- [Data Classification Guide](https://nvlpubs.nist.gov/nistpubs/Legacy/FIPS/fipspub199.pdf) - NIST FIPS 199
+- [Secure Asset Disposal Guidelines](https://www.nist.gov/publications/guidelines-media-sanitization) - NIST SP 800-88
+
+---
+
+**Need help with asset management?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+
 ## Related Documents
 
 - [ISMS Framework](isms-framework)

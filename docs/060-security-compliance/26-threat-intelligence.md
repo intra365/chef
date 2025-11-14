@@ -97,6 +97,23 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.7: Threat Intelligence](https://www.iso.org/standard/75652.html) - ISO Standard
+- [NIST SP 800-150 - Guide to Cyber Threat Information Sharing](https://csrc.nist.gov/publications/detail/sp/800-150/final) - National Institute of Standards and Technology
+- [MITRE ATT&CK Framework](https://attack.mitre.org/) - MITRE Corporation
+- [STIX/TAXII Standards](https://oasis-open.github.io/cti-documentation/) - Structured Threat Information Expression
+- [Microsoft Security Intelligence](https://www.microsoft.com/en-us/security/intelligence) - Microsoft threat intelligence
+- [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org/) - MITRE Corporation
+- [NVD - National Vulnerability Database](https://nvd.nist.gov/) - National Institute of Standards and Technology
+- [Azure Sentinel Threat Intelligence](https://learn.microsoft.com/en-us/azure/sentinel/understand-threat-intelligence) - Microsoft Azure
+
+---
+
+**Need help with threat intelligence?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

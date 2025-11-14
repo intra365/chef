@@ -470,6 +470,21 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.3: Segregation of Duties](https://www.iso.org/standard/75652.html) - ISO Standard
+- [NIST SP 800-53 Rev. 5 - AC-5: Separation of Duties](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - National Institute of Standards and Technology
+- [CIS Controls v8 - Control 6.8: Define and Maintain Role-Based Access Control](https://www.cisecurity.org/controls/v8) - Center for Internet Security
+- [SOX Segregation of Duties Matrix](https://www.soxlaw.com/) - Sarbanes-Oxley Act Compliance
+- [COBIT 2019 - Separation of Duties Framework](https://www.isaca.org/resources/cobit) - ISACA
+- [Azure RBAC Best Practices](https://learn.microsoft.com/en-us/azure/role-based-access-control/best-practices) - Microsoft Azure
+- [GitHub Branch Protection Rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) - GitHub Documentation
+- [Kubernetes RBAC](https://kubernetes.io/docs/reference/access-authn-authz/rbac/) - Kubernetes Official Documentation
+- [ITIL Change Management](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation) - AXELOS
+
+---
+
+**Need help with segregation of duties?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

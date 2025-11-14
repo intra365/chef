@@ -97,6 +97,22 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Controls A.5.24-A.5.28: Incident Management](https://www.iso.org/standard/75652.html) - ISO Standard
+- [ISO/IEC 27035-1:2016 - Information Security Incident Management](https://www.iso.org/standard/60803.html) - International Organization for Standardization
+- [NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) - National Institute of Standards and Technology
+- [NIST Cybersecurity Framework - Respond Function](https://www.nist.gov/cyberframework) - National Institute of Standards and Technology
+- [SANS Incident Handler's Handbook](https://www.sans.org/white-papers/33901/) - SANS Institute
+- [PagerDuty Incident Response](https://response.pagerduty.com/) - PagerDuty
+- [Atlassian Incident Management](https://www.atlassian.com/incident-management) - Atlassian
+
+---
+
+**Need help with incident management?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures
