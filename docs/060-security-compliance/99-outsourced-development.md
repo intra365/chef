@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.30)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.30: Outsourced Development
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-4: Acquisition Process, SA-9: External System Services
+- [ISO/IEC 27036-4:2016](https://www.iso.org/standard/59680.html) - Information Security for Supplier Relationships - Cloud Services
+- [NIST SP 800-161 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final) - Cybersecurity Supply Chain Risk Management
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 15: Service Provider Management
+- [Cloud Security Alliance: Cloud Controls Matrix](https://cloudsecurityalliance.org/) - Third-Party Security
+- [NIST SSDF (SP 800-218)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Third-Party Software Security
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 12.8: Service Provider Management
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC9.1: Vendor and Partner Management
+- [ENISA: Cloud Computing Security Risk Assessment](https://www.enisa.europa.eu/) - Outsourcing Security
+- [SAFECode: Managing Security Risks](https://safecode.org/) - Third-Party Software Development
 - Intra365 Security Policies and Procedures
 
 ---

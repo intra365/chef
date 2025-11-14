@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.29)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.29: Security Testing in Development and Acceptance
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-11: Developer Security Testing and Evaluation
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Web Application Security Testing
+- [OWASP ZAP](https://www.zaproxy.org/) - Web Application Security Scanner
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final) - Technical Guide to Information Security Testing
+- [PTES: Penetration Testing Execution Standard](http://www.pentest-standard.org/) - Testing Framework
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 16.13: Conduct Application Penetration Testing
+- [NIST SSDF (SP 800-218)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Security Testing Practices
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.3.2: Security Testing
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Security Testing
+- [OSSTMM](https://www.isecom.org/OSSTMM.3.pdf) - Open Source Security Testing Methodology Manual
 - Intra365 Security Policies and Procedures
 
 ---

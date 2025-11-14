@@ -97,13 +97,19 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- [ISO/IEC 27002:2022 - Control A.8.33](https://www.iso.org/standard/75652.html) - Test information
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - OWASP
-- [NIST SP 800-53 - SA-11: Developer Security Testing](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
-- [GDPR Test Data Guidelines](https://gdpr.eu/test-data/) - GDPR.eu
-- [Azure Test Data Management](https://learn.microsoft.com/en-us/azure/architecture/data-guide/scenarios/test-data-management) - Microsoft Learn
-- [Data Masking Best Practices](https://www.postgresql.org/docs/current/ddl-rowsecurity.html) - PostgreSQL
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.33)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.33: Test Information
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-3: System Development Life Cycle
+- [ISO/IEC 20889:2018](https://www.iso.org/standard/69373.html) - Privacy Enhancing Data De-identification
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Security of Processing (Test Data Protection)
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 3.3.2: Mask PAN in Non-Production
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Data Minimization in Testing
+- [OWASP Testing Guide: Test Data](https://owasp.org/www-project-web-security-testing-guide/) - Secure Test Data Management
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 3.12: Segment Data Processing
+- [Microsoft: Test Data Management](https://docs.microsoft.com/en-us/azure/devops/) - DevOps Test Data Security
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.7: Test Data Protection
+- [HIPAA: PHI in Testing](https://www.hhs.gov/hipaa/for-professionals/privacy/index.html) - Protected Health Information in Test Environments
+- Intra365 Security Policies and Procedures
 
 [^1]: **Test Information Security**: Controls to ensure that test data is appropriately selected, protected, and controlled. Production data should not be used in test environments without proper anonymization or masking to prevent data breaches and comply with privacy regulations like GDPR.
 

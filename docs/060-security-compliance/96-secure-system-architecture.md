@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.27)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.27: Secure System Architecture and Engineering Principles
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-8: Security Engineering Principles, SA-17: Developer Security Architecture
+- [NIST SP 800-160 Vol. 1](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) - Systems Security Engineering
+- [NIST SP 800-160 Vol. 2](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/rev-1/final) - Cyber Resiliency Considerations
+- [Zero Trust Architecture (NIST SP 800-207)](https://csrc.nist.gov/publications/detail/sp/800-207/final) - Zero Trust Design Principles
+- [TOGAF Security Architecture](https://www.opengroup.org/togaf) - Enterprise Architecture Framework
+- [SABSA](https://sabsa.org/) - Risk-driven Enterprise Security Architecture
+- [Cloud Security Alliance: Cloud Controls Matrix](https://cloudsecurityalliance.org/) - Cloud Architecture Security
+- [Azure Well-Architected Framework: Security](https://docs.microsoft.com/en-us/azure/architecture/framework/security/) - Cloud Architecture Best Practices
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 4: Secure Configuration
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.6: Secure Architecture
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.26)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.26: Application Security Requirements
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-4: Acquisition Process, SA-8: Security Engineering Principles
+- [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/) - Application Security Verification Standard
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top Web Application Security Risks
+- [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/) - Mobile Application Security Risks
+- [CWE Top 25](https://cwe.mitre.org/top25/) - Most Dangerous Software Weaknesses
+- [NIST SSDF (SP 800-218)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Security Requirements Definition
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 16.1: Establish Secure Coding Practices
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.2: Secure System Components
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Security Requirements
+- [ISO/IEC 27034](https://www.iso.org/standard/44378.html) - Application Security Controls
 - Intra365 Security Policies and Procedures
 
 ---
