@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.6.6)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 6.6: Confidentiality or Non-Disclosure Agreements
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PS-6: Access Agreements
+- [GDPR Article 28](https://gdpr-info.eu/art-28-gdpr/) - Processor Confidentiality Obligations
+- [Uniform Trade Secrets Act (UTSA)](https://www.uniformlaws.org/) - Trade Secret Protection
+- [TRIPS Agreement](https://www.wto.org/english/tratop_e/trips_e/trips_e.htm) - Trade-Related Aspects of Intellectual Property Rights
+- [WIPO: Confidentiality and NDAs](https://www.wipo.int/) - Intellectual Property Protection
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC1.4: Confidentiality Commitments
+- [IAPP: Privacy and Confidentiality Agreements](https://iapp.org/) - Privacy Professional Resources
 - Intra365 Security Policies and Procedures
 
 ---

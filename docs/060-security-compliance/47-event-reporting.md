@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.6.8)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 6.8: Information Security Event Reporting
+- [ISO/IEC 27035-1:2023](https://www.iso.org/standard/78973.html) - Information Security Incident Management - Part 1: Principles and Process
+- [NIST SP 800-61 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) - Computer Security Incident Handling Guide
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - IR-6: Incident Reporting
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 17: Incident Response Management
+- [ENISA: Threat Landscape](https://www.enisa.europa.eu/topics/threat-risk-management) - Incident Reporting Framework
+- [GDPR Article 33](https://gdpr-info.eu/art-33-gdpr/) - Notification of Personal Data Breach to Supervisory Authority
+- [NIS2 Directive](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - Incident Reporting Requirements
+- [SANS Incident Handler's Handbook](https://www.sans.org/white-papers/) - Incident Detection and Reporting
 - Intra365 Security Policies and Procedures
 
 ---

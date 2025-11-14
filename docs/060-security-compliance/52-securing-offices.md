@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.3)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.3: Securing Offices, Rooms and Facilities
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-5: Access Control for Output Devices, PE-18: Location of System Components
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 13: Network Monitoring and Defense
+- [ASIS International: Facilities Physical Security Measures](https://www.asisonline.org/) - Office Security Guidelines
+- [NFPA 730](https://www.nfpa.org/codes-and-standards/) - Guide for Premises Security
+- [CPTED: Crime Prevention Through Environmental Design](https://www.cpted.net/) - Security by Design Principles
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Facility Security
+- [Uptime Institute: Office and Data Center Security](https://uptimeinstitute.com/) - Facility Protection Standards
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.11)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.11: Supporting Utilities
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-9: Power Equipment and Cabling, PE-11: Emergency Power, PE-12: Emergency Lighting
+- [TIA-942](https://www.tiaonline.org/standards/) - Data Center Telecommunications Infrastructure Standard
+- [Uptime Institute: Tier Classification](https://uptimeinstitute.com/) - Data Center Power and Cooling Standards
+- [ASHRAE: Datacom Equipment Power Trends](https://www.ashrae.org/) - Environmental Guidelines
+- [IEEE 1100](https://standards.ieee.org/) - Recommended Practice for Powering and Grounding Electronic Equipment
+- [NFPA 70: National Electrical Code](https://www.nfpa.org/codes-and-standards/) - Electrical Installation Standards
+- [ISO 22301:2019](https://www.iso.org/standard/75106.html) - Business Continuity Management (Utility Redundancy)
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Infrastructure Support
 - Intra365 Security Policies and Procedures
 
 ---

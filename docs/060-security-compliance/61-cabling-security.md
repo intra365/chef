@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.12)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.12: Cabling Security
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-4: Access Control for Transmission, PE-9: Power Equipment and Cabling
+- [TIA-568](https://www.tiaonline.org/standards/) - Commercial Building Telecommunications Cabling Standard
+- [TIA-942](https://www.tiaonline.org/standards/) - Data Center Cabling Infrastructure
+- [BICSI: Network Design Basics](https://www.bicsi.org/) - Cabling Best Practices
+- [TEMPEST Standards](https://www.nsa.gov/) - Protection Against Compromising Emanations
+- [ISO/IEC 11801](https://www.iso.org/standard/76321.html) - Information Technology - Generic Cabling Systems
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Network Infrastructure Protection
+- [NFPA 70: Article 800](https://www.nfpa.org/codes-and-standards/) - Communications Circuits
 - Intra365 Security Policies and Procedures
 
 ---
