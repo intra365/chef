@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.9)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.9: Configuration Management
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CM-2: Baseline Configuration, CM-6: Configuration Settings
+- [NIST SP 800-128](https://csrc.nist.gov/publications/detail/sp/800-128/final) - Guide for Security-Focused Configuration Management
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) - Configuration Hardening Guidelines
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 4: Secure Configuration of Enterprise Assets
+- [DISA STIGs](https://public.cyber.mil/stigs/) - Security Technical Implementation Guides
+- [Kubernetes: Security Best Practices](https://kubernetes.io/docs/concepts/security/pod-security-standards/) - Container Configuration
+- [Azure: Configuration Management](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview) - Infrastructure as Code
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Configuration Management
+- [ITIL 4: Configuration Management](https://www.axelos.com/certifications/itil-service-management) - CMDB Best Practices
 - Intra365 Security Policies and Procedures
 
 ---

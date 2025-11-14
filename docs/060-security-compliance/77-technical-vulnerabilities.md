@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.8)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.8: Management of Technical Vulnerabilities
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SI-2: Flaw Remediation, RA-5: Vulnerability Monitoring and Scanning
+- [NIST SP 800-40 Rev. 4](https://csrc.nist.gov/publications/detail/sp/800-40/rev-4/final) - Guide to Enterprise Patch Management Planning
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 7: Continuous Vulnerability Management
+- [CVSS v3.1](https://www.first.org/cvss/) - Common Vulnerability Scoring System
+- [NVD: National Vulnerability Database](https://nvd.nist.gov/) - NIST Vulnerability Repository
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Web Application Security Risks
+- [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Known Exploited Vulnerabilities
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.3: Vulnerability Management
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC7.1: Vulnerability Detection
 - Intra365 Security Policies and Procedures
 
 ---

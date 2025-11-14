@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.14)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.14: Redundancy of Information Processing Facilities
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CP-8: Telecommunications Services, CP-11: Alternate Processing Site
+- [ISO 22301:2019](https://www.iso.org/standard/75106.html) - Business Continuity Management - Resilience
+- [Uptime Institute: Tier Standard](https://uptimeinstitute.com/) - Data Center Redundancy Levels
+- [TIA-942](https://www.tiaonline.org/standards/) - Data Center Infrastructure Redundancy
+- [Azure: High Availability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview) - Cloud Redundancy Patterns
+- [Kubernetes: High Availability](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/ha-topology/) - Container Orchestration Resilience
+- [Google SRE: Disaster Recovery](https://sre.google/sre-book/data-integrity/) - Site Reliability Engineering
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC7.5: System Availability
+- [ITIL 4: Service Continuity](https://www.axelos.com/certifications/itil-service-management) - Redundancy Management
 - Intra365 Security Policies and Procedures
 
 ---

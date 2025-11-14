@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.17)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.17: Clock Synchronization
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AU-8: Time Stamps
+- [RFC 5905: Network Time Protocol (NTP)](https://datatracker.ietf.org/doc/html/rfc5905) - NTP Version 4 Specification
+- [RFC 8633: NTP Best Current Practices](https://datatracker.ietf.org/doc/html/rfc8633) - NTP Security
+- [NIST Time Services](https://www.nist.gov/pml/time-and-frequency-division) - Authoritative Time Sources
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 8: Audit Log Management (Time Synchronization)
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 10.4: Synchronize Time
+- [Azure: Time Sync](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/time-sync) - Cloud Time Synchronization
+- [Kubernetes: Time Synchronization](https://kubernetes.io/docs/concepts/cluster-administration/) - Container Time Management
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC7.2: Time Synchronization
 - Intra365 Security Policies and Procedures
 
 ---

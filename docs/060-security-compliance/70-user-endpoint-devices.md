@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.1)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.1: User Endpoint Devices
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AC-19: Access Control for Mobile Devices
+- [NIST SP 800-124 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-124/rev-2/draft) - Guidelines for Managing the Security of Mobile Devices
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 4: Secure Configuration of Enterprise Assets and Software
+- [Microsoft Endpoint Manager Documentation](https://docs.microsoft.com/en-us/mem/) - Device Management and Security
+- [NCSC: Mobile Device Guidance](https://www.ncsc.gov.uk/collection/mobile-device-guidance) - End User Devices Security
+- [ENISA: Bring Your Own Device (BYOD)](https://www.enisa.europa.eu/) - Secure Enterprise Mobility
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.6: Endpoint Security
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 5: Protect All Systems and Networks
 - Intra365 Security Policies and Procedures
 
 ---

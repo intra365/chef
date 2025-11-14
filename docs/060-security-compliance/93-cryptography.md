@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.24)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.24: Use of Cryptography
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SC-12: Cryptographic Key Management, SC-13: Cryptographic Protection
+- [NIST SP 800-175B Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-175b/rev-1/final) - Guideline for Using Cryptographic Standards
+- [NIST FIPS 140-3](https://csrc.nist.gov/publications/detail/fips/140/3/final) - Security Requirements for Cryptographic Modules
+- [NIST SP 800-57 Part 1 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-5/final) - Key Management Recommendations
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 3.11: Encrypt Sensitive Data at Rest
+- [RFC 8446: TLS 1.3](https://datatracker.ietf.org/doc/html/rfc8446) - Transport Layer Security
+- [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/) - Cloud Key Management Service
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 4: Protect Cardholder Data with Strong Cryptography
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Encryption as Security Measure
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.7: Encryption
 - Intra365 Security Policies and Procedures
 
 ---

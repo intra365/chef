@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.12)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.12: Data Leakage Prevention
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AC-4: Information Flow Enforcement, SC-7: Boundary Protection
+- [NIST SP 800-177](https://csrc.nist.gov/publications/detail/sp/800-177/rev-1/final) - Trustworthy Email
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 3.3: Configure Data Access Control Lists
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Security of Processing (Data Protection)
+- [Microsoft Purview DLP](https://docs.microsoft.com/en-us/microsoft-365/compliance/dlp-learn-about-dlp) - Data Loss Prevention
+- [Gartner: DLP Best Practices](https://www.gartner.com/) - Data Leakage Prevention Strategies
+- [SANS: Data Loss Prevention Policy](https://www.sans.org/information-security-policy/) - DLP Policy Templates
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 3.4: Protect Cardholder Data in Transit
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.7: Data Loss Prevention
 - Intra365 Security Policies and Procedures
 
 ---

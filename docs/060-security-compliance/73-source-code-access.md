@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.4)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.4: Access to Source Code
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CM-3: Configuration Change Control, SA-10: Developer Configuration Management
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 16.11: Code Repository Access Controls
+- [GitHub: Securing Your Repository](https://docs.github.com/en/code-security) - Repository Security Best Practices
+- [GitLab: Access Control](https://docs.gitlab.com/ee/user/permissions.html) - Repository Permissions
+- [OWASP: Source Code Management Security](https://owasp.org/) - Secure Code Repository Management
+- [NIST SSDF](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Secure Software Development Framework
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.2.4: Software Development Access Controls
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Change Management
 - Intra365 Security Policies and Procedures
 
 ---
