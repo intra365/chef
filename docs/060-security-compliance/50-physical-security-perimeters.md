@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.1)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.1: Physical Security Perimeters
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-3: Physical Access Control
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 13: Network Monitoring and Defense (Physical Layer)
+- [ISO/IEC 27799:2016](https://www.iso.org/standard/62777.html) - Health Informatics - Physical Security for Health Data Centers
+- [Uptime Institute: Data Center Tier Standards](https://uptimeinstitute.com/) - Physical Security Requirements
+- [TIA-942](https://www.tiaonline.org/standards/) - Telecommunications Infrastructure Standard for Data Centers
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Physical Access Controls
+- [NCSC: Physical Security Guidance](https://www.ncsc.gov.uk/) - Physical Security Best Practices
 - Intra365 Security Policies and Procedures
 
 ---

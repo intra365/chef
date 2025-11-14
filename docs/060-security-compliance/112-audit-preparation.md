@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Certification Audit Requirements
+- [ISO 19011:2018](https://www.iso.org/standard/70017.html) - Guidelines for Auditing Management Systems
+- [ISO/IEC 27006:2015](https://www.iso.org/standard/62313.html) - Requirements for Bodies Auditing ISMS
+- [NIST SP 800-53A Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-5/final) - Control Assessment Guide
+- [SOC 2: Audit Preparation](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Readiness Assessment
+- [PCI DSS: QSA Audit Process](https://www.pcisecuritystandards.org/) - Qualified Security Assessor Guidelines
+- [ISACA: IT Audit Standards](https://www.isaca.org/) - Audit and Assurance Framework
+- [FedRAMP: 3PAO Assessment](https://www.fedramp.gov/) - Third Party Assessment Process
+- [NIST CSF: Assessment Tools](https://www.nist.gov/cyberframework) - Self-Assessment Methodology
+- [IAF MD 4](https://www.iaf.nu/) - Use of Computer Assisted Auditing Techniques
+- [ISO/IEC 27007:2020](https://www.iso.org/standard/77802.html) - Guidelines for ISMS Auditing
+- [BSI C5](https://www.bsi.bund.de/EN/) - Cloud Computing Compliance Controls Catalogue
 - Intra365 Security Policies and Procedures
 
 ---

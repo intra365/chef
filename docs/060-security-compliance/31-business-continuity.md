@@ -97,6 +97,21 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Controls A.5.29-A.5.30: Business Continuity](https://www.iso.org/standard/75652.html) - ISO Standard
+- [ISO 22301:2019 - Business Continuity Management Systems](https://www.iso.org/standard/75106.html) - International Organization for Standardization
+- [NIST SP 800-34 Rev. 1 - Contingency Planning Guide](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final) - National Institute of Standards and Technology
+- [Business Continuity Institute - Good Practice Guidelines](https://www.thebci.org/) - BCI
+- [Azure Business Continuity](https://learn.microsoft.com/en-us/azure/architecture/framework/resiliency/backup-and-recovery) - Microsoft Azure
+- [Disaster Recovery Planning Guide](https://www.ready.gov/business-continuity-plan) - FEMA
+
+---
+
+**Need help with business continuity?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

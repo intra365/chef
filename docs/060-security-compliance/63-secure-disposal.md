@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.14)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.14: Secure Disposal or Re-use of Equipment
+- [NIST SP 800-88 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - Guidelines for Media Sanitization
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - MP-6: Media Sanitization and Disposal
+- [DoD 5220.22-M](https://www.dss.mil/) - National Industrial Security Program Operating Manual (Data Sanitization)
+- [NAID AAA Certification](https://naidonline.org/) - National Association for Information Destruction
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 9.8.2: Media Destruction
+- [HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/index.html) - 164.310(d)(2): Media Disposal
+- [GDPR Article 17](https://gdpr-info.eu/art-17-gdpr/) - Right to Erasure
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.5: Secure Disposal
+- [WEEE Directive](https://ec.europa.eu/environment/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee_en) - Electronic Waste Disposal Regulations
 - Intra365 Security Policies and Procedures
 
 ---

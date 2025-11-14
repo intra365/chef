@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Statement of Applicability and Gap Analysis
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Control Assessment Methodology
+- [NIST SP 800-53A Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-5/final) - Assessment Procedures for Controls
+- [NIST CSF: Gap Analysis](https://www.nist.gov/cyberframework) - Current State vs Target State Assessment
+- [CIS Controls v8: Gap Assessment](https://www.cisecurity.org/controls/v8) - Implementation Group Analysis
+- [PCI DSS: Gap Analysis](https://www.pcisecuritystandards.org/) - Compliance Gap Assessment
+- [SOC 2: Readiness Gap Analysis](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Pre-Audit Assessment
+- [COBIT 2019: Gap Analysis](https://www.isaca.org/resources/cobit) - Governance and Management Objectives
+- [ISO/IEC 27003:2017](https://www.iso.org/standard/63417.html) - ISMS Implementation Guidance
+- [CMMC: Gap Assessment](https://www.acq.osd.mil/cmmc/) - Maturity Level Gap Analysis
+- [FedRAMP: Gap Analysis](https://www.fedramp.gov/) - Authorization Gap Assessment
+- [SANS: Security Assessment](https://www.sans.org/) - Gap Analysis Methodologies
 - Intra365 Security Policies and Procedures
 
 ---

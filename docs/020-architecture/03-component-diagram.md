@@ -24,4 +24,15 @@ Stay tuned for more content in this section!
 
 ---
 
+## References
+
+- [C4 Model](https://c4model.com/) - Simon Brown
+- [UML Diagrams](https://www.uml.org/) - Object Management Group
+- [ArchiMate](https://www.opengroup.org/archimate-forum) - The Open Group
+- [Mermaid Documentation](https://mermaid.js.org/) - Mermaid
+- [PlantUML](https://plantuml.com/) - PlantUML
+- [System Architecture Diagrams](https://aws.amazon.com/architecture/icons/) - AWS Architecture Icons
+
+---
+
 **Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).

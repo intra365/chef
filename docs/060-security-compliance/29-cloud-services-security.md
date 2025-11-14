@@ -97,6 +97,24 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.23: Cloud Services Security](https://www.iso.org/standard/75652.html) - ISO Standard
+- [ISO/IEC 27017:2015 - Cloud Security Code of Practice](https://www.iso.org/standard/43757.html) - International Organization for Standardization
+- [ISO/IEC 27018:2019 - Protection of PII in Public Clouds](https://www.iso.org/standard/76559.html) - International Organization for Standardization
+- [NIST SP 800-145 - Cloud Computing Definition](https://csrc.nist.gov/publications/detail/sp/800-145/final) - National Institute of Standards and Technology
+- [NIST SP 800-146 - Cloud Computing Synopsis and Recommendations](https://csrc.nist.gov/publications/detail/sp/800-146/final) - National Institute of Standards and Technology
+- [Cloud Security Alliance - Security Guidance v4.0](https://cloudsecurityalliance.org/research/guidance/) - CSA
+- [Azure Security Best Practices](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) - Microsoft Azure
+- [CIS Azure Foundations Benchmark](https://www.cisecurity.org/benchmark/azure) - Center for Internet Security
+- [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/) - Microsoft Azure
+
+---
+
+**Need help with cloud security?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

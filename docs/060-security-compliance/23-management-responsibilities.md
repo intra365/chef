@@ -97,6 +97,20 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.4: Management Responsibilities](https://www.iso.org/standard/75652.html) - ISO Standard
+- [NIST SP 800-53 Rev. 5 - PM Series: Program Management Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - National Institute of Standards and Technology
+- [CIS Controls v8 - Control 1.1: Establish Management Responsibility](https://www.cisecurity.org/controls/v8) - Center for Internet Security
+- [ISO 31000:2018 - Risk Management Guidelines](https://www.iso.org/standard/65694.html) - International Organization for Standardization
+- [COSO Internal Control Framework](https://www.coso.org/Guidance/Internal-Control-Integrated-Framework) - Committee of Sponsoring Organizations
+
+---
+
+**Need help with management responsibilities?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

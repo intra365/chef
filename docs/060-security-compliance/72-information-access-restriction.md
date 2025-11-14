@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.3)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.3: Information Access Restriction
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AC-3: Access Enforcement, AC-4: Information Flow Enforcement
+- [NIST SP 800-162](https://csrc.nist.gov/publications/detail/sp/800-162/final) - Guide to Attribute Based Access Control (ABAC)
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 3: Data Protection
+- [NIST SP 800-178](https://csrc.nist.gov/publications/detail/sp/800-178/final) - Comparison of ABAC Standards
+- [OAuth 2.0 Authorization Framework (RFC 6749)](https://datatracker.ietf.org/doc/html/rfc6749) - Authorization Standards
+- [XACML](http://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html) - eXtensible Access Control Markup Language
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Security of Processing (Access Controls)
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.1: Logical Access Controls
 - Intra365 Security Policies and Procedures
 
 ---

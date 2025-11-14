@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.5)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.5: Secure Authentication
+- [NIST SP 800-63B](https://csrc.nist.gov/publications/detail/sp/800-63b/final) - Digital Identity Guidelines: Authentication and Lifecycle Management
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - IA-2: Identification and Authentication, IA-5: Authenticator Management
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 6: Access Control Management
+- [FIDO2 Standards](https://fidoalliance.org/fido2/) - WebAuthn and CTAP Specifications
+- [OAuth 2.0 (RFC 6749)](https://datatracker.ietf.org/doc/html/rfc6749) - Authorization Framework
+- [OpenID Connect](https://openid.net/connect/) - Identity Layer on OAuth 2.0
+- [Microsoft: Azure AD Authentication](https://docs.microsoft.com/en-us/azure/active-directory/authentication/) - Multi-Factor Authentication
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 8: Identify Users and Authenticate Access
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.1: Authentication
 - Intra365 Security Policies and Procedures
 
 ---

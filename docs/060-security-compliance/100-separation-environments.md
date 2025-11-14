@@ -97,10 +97,34 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.31)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.31: Separation of Development, Test and Production Environments
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CM-4: Security Impact Analysis, SC-7: Boundary Protection
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 12.2: Establish Network Architecture
+- [NIST SSDF (SP 800-218)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Environment Separation Practices
+- [ITIL 4: Release Management](https://www.axelos.com/certifications/itil-service-management) - Environment Management
+- [Azure: Environment Strategy](https://docs.microsoft.com/en-us/azure/architecture/) - Cloud Environment Separation
+- [Kubernetes Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) - Environment Isolation
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.4.2: Separate Development from Production
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Environment Separation
+- [OWASP: Secure SDLC](https://owasp.org/) - Environment Management
+- [Google SRE: Deployment Environments](https://sre.google/sre-book/release-engineering/) - Production Safety
 - Intra365 Security Policies and Procedures
+- [NIST SP 800-53 - CM-7: Least Functionality](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [Azure Environment Strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/environments) - Microsoft Cloud Adoption Framework
+- [Kubernetes Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) - Kubernetes Documentation
+- [CIS Kubernetes Benchmark - Environment Separation](https://www.cisecurity.org/benchmark/kubernetes) - CIS
+- [DevOps Environment Management](https://docs.gitlab.com/ee/ci/environments/) - GitLab CI/CD
+
+[^1]: **Environment Separation**: The practice of maintaining distinct development, test/staging, and production environments to prevent unauthorized changes to production systems, reduce the risk of errors, and ensure proper testing before deployment. This is a fundamental security control that prevents development activities from impacting live services.
 
 ---
 
-**Questions or feedback?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
+**Related Documentation**:
+- [System Architecture](../020-architecture/01-system-architecture.md)
+- [GitOps Workflow](../020-architecture/02-gitops-workflow.md)
+- [Multi-Environment Strategy](../020-architecture/06-multi-environment.md)
+
+---
+
+**Need help now?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).

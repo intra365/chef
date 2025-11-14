@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.9)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.9: Security of Assets Off-Premises
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - MP-5: Media Transport
+- [NIST SP 800-114 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-114/rev-1/final) - User's Guide to Securing External Devices
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 10: Malware Defenses (Portable Media)
+- [NIST SP 800-111](https://csrc.nist.gov/publications/detail/sp/800-111/final) - Guide to Storage Encryption Technologies for End User Devices
+- [ISO/IEC 27040:2015](https://www.iso.org/standard/44404.html) - Storage Security
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 9: Restrict Physical Access to Cardholder Data
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.5: Protection of Mobile Devices
+- [NCSC: Mobile Device Security Guidance](https://www.ncsc.gov.uk/) - Off-Premises Device Protection
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.6)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.6: Capacity Management
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AU-4: Audit Storage Capacity, SC-5: Denial of Service Protection
+- [ITIL 4: Capacity and Performance Management](https://www.axelos.com/certifications/itil-service-management) - Service Management Practices
+- [ISO/IEC 20000-1:2018](https://www.iso.org/standard/70636.html) - IT Service Management - Capacity Management
+- [Kubernetes: Resource Management](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/) - Container Resource Limits
+- [Azure: Capacity Planning](https://docs.microsoft.com/en-us/azure/architecture/) - Cloud Capacity Management
+- [Google SRE Book: Capacity Planning](https://sre.google/sre-book/software-engineering-in-sre/) - Site Reliability Engineering
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 12: Network Infrastructure Management
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC7.2: System Capacity
 - Intra365 Security Policies and Procedures
 
 ---

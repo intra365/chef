@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.6.5)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 6.5: Responsibilities After Termination or Change of Employment
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PS-4: Personnel Termination, PS-5: Personnel Transfer
+- [NIST SP 800-88 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - Guidelines for Media Sanitization (User Account Deprovisioning)
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 5.3: Disable Dormant Accounts
+- [SANS: Account Deprovisioning Checklist](https://www.sans.org/) - Offboarding Security Procedures
+- [Microsoft: Remove User Access](https://docs.microsoft.com/en-us/azure/active-directory/) - Azure AD User Deprovisioning
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.2: Logical and Physical Access Controls
+- [ILO: End of Employment](https://www.ilo.org/global/topics/employment-relationship/lang--en/index.htm) - International Labour Standards
 - Intra365 Security Policies and Procedures
 
 ---

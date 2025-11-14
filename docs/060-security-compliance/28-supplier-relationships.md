@@ -97,6 +97,21 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Controls A.5.19-A.5.22: Supplier Security](https://www.iso.org/standard/75652.html) - ISO Standard
+- [NIST SP 800-161 Rev. 1 - Cybersecurity Supply Chain Risk Management](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final) - National Institute of Standards and Technology
+- [ISO 28000:2007 - Supply Chain Security Management](https://www.iso.org/standard/44641.html) - International Organization for Standardization
+- [Cloud Security Alliance - Cloud Controls Matrix](https://cloudsecurityalliance.org/research/cloud-controls-matrix/) - CSA
+- [Third-Party Risk Management](https://www.sans.org/white-papers/vendor-risk-management/) - SANS Institute
+- [SOC 2 Type II Reporting](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - AICPA
+
+---
+
+**Need help with supplier security?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

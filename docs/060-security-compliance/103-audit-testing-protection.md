@@ -97,9 +97,27 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.34)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.34: Protection of Information Systems During Audit Testing
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CA-7: Continuous Monitoring, AU-12: Audit Generation
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final) - Technical Guide to Information Security Testing and Assessment
+- [ISO 19011:2018](https://www.iso.org/standard/70017.html) - Guidelines for Auditing Management Systems
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 16.13: Conduct Application Penetration Testing
+- [ISACA: IT Audit Framework](https://www.isaca.org/) - Audit and Assurance Standards
+- [SOC 2: Audit Testing Requirements](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - System Audit Protection
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 11: Regularly Test Security Systems
+- [NIST CSF: Identify Function](https://www.nist.gov/cyberframework) - Assessment and Testing
+- [PTES: Penetration Testing Execution Standard](http://www.pentest-standard.org/) - Safe Testing Practices
+- [SANS: Audit and Assessment](https://www.sans.org/) - Security Testing Guidelines
 - Intra365 Security Policies and Procedures
+
+[^1]: **Audit Testing Protection**: Controls to ensure that audit and security testing activities do not disrupt production systems or expose sensitive information. This includes using read-only access where possible, testing in isolated environments, and ensuring that audit tools themselves are secure and properly configured.
+
+---
+
+**Related Documentation**:
+- [Audit Logging](07-audit-logging.md)
+- [Observability](../030-infrastructure/05-observability.md)
 
 ---
 

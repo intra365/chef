@@ -97,7 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.1: Policies for Information Security](https://www.iso.org/standard/75652.html) - ISO Standard
+- [NIST SP 800-53 Rev. 5 - Policy and Procedures Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - National Institute of Standards and Technology
+- [Information Security Policy Templates](https://www.sans.org/information-security-policy/) - SANS Institute
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - National Institute of Standards and Technology
+- [CIS Controls v8 - Organizational Controls](https://www.cisecurity.org/controls/v8) - Center for Internet Security
+- [ENISA Information Security Policy](https://www.enisa.europa.eu/topics/cybersecurity-policy) - European Union Agency for Cybersecurity
+
+---
+
+**Need help with security policies?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures
 

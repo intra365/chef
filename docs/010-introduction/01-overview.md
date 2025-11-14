@@ -22,13 +22,19 @@ This means your custom business logic, workflows, and integrations remain indepe
 
 This reference architecture demonstrates:
 
-- **GitOps-driven deployments**: Infrastructure and application state managed declaratively through Git
+- **GitOps-driven deployments**[^1]: Infrastructure and application state managed declaratively through Git
 - **Service orchestration**: Coordinates deployment of all Intra365 Mates (microservices)
-- **Configuration management**: Centralized configuration and secrets management via Azure Key Vault CSI
+- **Configuration management**: Centralized configuration and secrets management via Azure Key Vault CSI[^2]
 - **Multi-environment support**: Seamless deployments across development, staging, and production environments
-- **Convention over configuration**: Standardized deployment patterns that reduce boilerplate
+- **Convention over configuration**[^3]: Standardized deployment patterns that reduce boilerplate
 - **Prompt-based configuration**: Adaptable platform setup using AI-assisted prompts instead of rigid IaC
 - **COTS Isolation**: Complete separation of custom logic from vendor platforms
+
+[^1]: GitOps principles define infrastructure and application configuration as code stored in Git repositories, enabling declarative, version-controlled deployments. See [GitOps Principles](https://www.gitops.tech/).
+
+[^2]: Azure Key Vault provides secure storage for secrets, keys, and certificates with built-in access policies and audit logging. The CSI driver enables Kubernetes pods to mount secrets as volumes. See [Azure Key Vault Documentation](https://learn.microsoft.com/en-us/azure/key-vault/).
+
+[^3]: Convention over configuration is a software design paradigm that reduces the number of decisions developers need to make by providing sensible defaults. See [The Twelve-Factor App](https://12factor.net/).
 
 ## Key Features
 
@@ -36,19 +42,25 @@ This reference architecture demonstrates:
 Built on connectivity, integration, and governance principles with complete COTS isolation for maximum portability.
 
 ### 🔄 GitOps Workflow
-All deployments are triggered by Git commits, ensuring version control, auditability, and rollback capabilities.
+All deployments are triggered by Git commits, ensuring version control, auditability, and rollback capabilities.[^4]
 
 ### 🚀 Automated Deployments
 GitHub Actions workflows automatically deploy services when changes are merged to main branches.
 
 ### 🔒 Zero-Trust Security
-Integration with Azure Key Vault, network policies, and RAISE 2.0 DevSecOps compliance.
+Integration with Azure Key Vault, network policies, and RAISE 2.0 DevSecOps compliance.[^5]
 
 ### 📊 Observability
 Built-in monitoring, logging, and tracing for all deployed services.
 
 ### 🎯 Service Discovery
-Automatic service registration and discovery through NATS messaging infrastructure.
+Automatic service registration and discovery through NATS messaging infrastructure.[^6]
+
+[^4]: GitOps workflow patterns use Git as the single source of truth for declarative infrastructure and applications, with automated synchronization processes. See [GitOps Working Group](https://www.gitops.tech/).
+
+[^5]: Zero-trust architecture assumes no implicit trust and requires verification of every access request. NIST SP 800-207 provides comprehensive guidance. See [NIST Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture).
+
+[^6]: NATS is a cloud-native messaging system that provides publish-subscribe, request-reply, and queue group patterns for distributed systems. See [NATS.io Documentation](https://docs.nats.io/).
 
 ## Architecture at a Glance
 
@@ -127,6 +139,19 @@ Our documentation follows a **numeric-prefixed structure** for logical navigatio
 - **GitHub Issues**: [Report bugs or request features](https://github.com/intra365/chef/issues)
 - **GitHub Discussions**: [Ask questions and share ideas](https://github.com/intra365/chef/discussions)
 - **Intra365 Specs**: [Review full specifications](https://github.com/happy-mates/happy-mates-intra365)
+
+---
+
+## References
+
+- [GitOps Principles](https://www.gitops.tech/) - GitOps Working Group
+- [The Twelve-Factor App](https://12factor.net/) - Heroku Dev Center
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/) - CNCF
+- [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/) - Microsoft Learn
+- [GitHub Actions Documentation](https://docs.github.com/en/actions) - GitHub Docs
+- [NIST Zero Trust Architecture](https://www.nist.gov/publications/zero-trust-architecture) - NIST SP 800-207
+- [Service Mesh Patterns](https://www.nginx.com/learn/service-mesh/) - NGINX
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - International Organization for Standardization
 
 ---
 

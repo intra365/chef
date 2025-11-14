@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.2)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.2: Physical Entry
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-2: Physical Access Authorizations, PE-3: Physical Access Control
+- [NIST FIPS 201-3](https://csrc.nist.gov/publications/detail/fips/201/3/final) - Personal Identity Verification (PIV)
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 13.9: Deploy Port-Level Access Control
+- [ASIS International: Physical Security Standards](https://www.asisonline.org/) - Professional Security Management
+- [IEEE 802.1X](https://standards.ieee.org/standard/802_1X-2020.html) - Port-Based Network Access Control
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Physical Entry Controls
+- [CPNI: Access Control Systems](https://www.cpni.gov.uk/) - UK Security Service Guidance
 - Intra365 Security Policies and Procedures
 
 ---

@@ -472,4 +472,25 @@ The ISMS is considered successful when:
 
 ---
 
+## References
+
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - ISO Official Standard
+- [ISO/IEC 27002:2022 - Information Security Controls](https://www.iso.org/standard/75652.html) - ISO Implementation Guidance
+- [ISO/IEC 27005:2022 - Information Security Risk Management](https://www.iso.org/standard/80585.html) - ISO Risk Management
+- [NIST SP 800-53 - Security and Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - NIST
+- [COBIT 2019 Framework](https://www.isaca.org/resources/cobit) - ISACA
+- [ITIL 4 Framework](https://www.axelos.com/certifications/itil-service-management) - AXELOS
+- [ISMS Implementation Best Practices](https://www.itgovernance.co.uk/iso27001/isms) - IT Governance
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/) - Microsoft Learn
+
+[^1]: **PDCA Cycle**: Plan-Do-Check-Act is a four-stage iterative management method for continuous improvement. It's the foundation of ISO 27001's approach to managing an ISMS, ensuring that the system evolves with changing threats and business needs.
+
+[^2]: **Statement of Applicability (SoA)**: A mandatory ISO 27001 document that lists all Annex A controls, indicates which are applicable, provides justification for inclusion/exclusion decisions, and describes how applicable controls are implemented. It serves as the primary evidence of control selection and implementation status.
+
+[^3]: **RACI Matrix**: Responsible-Accountable-Consulted-Informed model for defining roles and responsibilities. In ISMS context, it clarifies who does the work (R), who makes decisions (A), who provides input (C), and who needs to be kept informed (I) for each security activity.
+
+[^4]: **Risk Appetite**: The amount and type of risk an organization is willing to accept in pursuit of its objectives. It guides risk treatment decisions - risks within appetite may be accepted, while those exceeding it require mitigation or other treatment.
+
+---
+
 **Questions or feedback?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).

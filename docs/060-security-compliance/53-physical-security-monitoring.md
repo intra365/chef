@@ -97,8 +97,16 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.7.4)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 7.4: Physical Security Monitoring
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - PE-6: Monitoring Physical Access
+- [IEC 62676](https://webstore.iec.ch/publication/7388) - Video Surveillance Systems for Use in Security Applications
+- [ONVIF Standards](https://www.onvif.org/) - Open Network Video Interface Forum Standards
+- [ASIS International: CCTV Guidelines](https://www.asisonline.org/) - Physical Security Monitoring
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 13: Network Monitoring (Physical Layer)
+- [GDPR Article 35](https://gdpr-info.eu/art-35-gdpr/) - Data Protection Impact Assessment for Surveillance
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.4: Physical Monitoring Controls
+- [BSI: Video Surveillance](https://www.bsi.bund.de/EN/) - German Federal Office for Information Security Guidelines
 - Intra365 Security Policies and Procedures
 
 ---

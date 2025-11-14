@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.6.4)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 6.4: Disciplinary Process
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Personnel Security (PS-8: Personnel Sanctions)
+- [ISO 30408:2016](https://www.iso.org/standard/63736.html) - Human Resource Management - Guidelines on Governance
+- [ILO: Termination of Employment Convention](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C158) - C158: Termination of Employment
+- [GDPR Article 88](https://gdpr-info.eu/art-88-gdpr/) - Processing in the Context of Employment
+- [SHRM: Progressive Discipline](https://www.shrm.org/) - Disciplinary Action Best Practices
+- [ACAS: Disciplinary and Grievance Procedures](https://www.acas.org.uk/) - UK Employment Guidance
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC1.4: Enforcement of Accountability
 - Intra365 Security Policies and Procedures
 
 ---

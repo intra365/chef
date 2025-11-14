@@ -311,8 +311,16 @@ Privileged access metrics are tracked in:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.2)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.2: Privileged Access Rights
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AC-6: Least Privilege, AC-2: Account Management
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 5.4: Restrict Administrator Privileges to Dedicated Accounts
+- [Microsoft: Privileged Access Workstations](https://docs.microsoft.com/en-us/security/privileged-access-workstations/) - PAW Implementation
+- [NIST SP 800-63B](https://csrc.nist.gov/publications/detail/sp/800-63b/final) - Digital Identity Guidelines (Authentication)
+- [CyberArk: Privileged Access Security](https://www.cyberark.com/) - PAM Best Practices
+- [SANS: Privileged Account Management](https://www.sans.org/) - Administrative Access Controls
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 7: Restrict Access to System Components
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.2: Privileged Access
 - Intra365 Security Policies and Procedures
 
 ---

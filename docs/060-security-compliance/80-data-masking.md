@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.11)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.11: Data Masking
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SC-12: Cryptographic Key Management (Tokenization)
+- [ISO/IEC 20889:2018](https://www.iso.org/standard/69373.html) - Privacy Enhancing Data De-identification Terminology and Classification
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Privacy Risk Management
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 3.5: Render PAN Unreadable (Masking)
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Pseudonymisation and Encryption
+- [HIPAA: De-identification of PHI](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) - Safe Harbor Method
+- [ANSI X9.119](https://www.ansi.org/) - Retail Financial Services - Requirements for Protection of Sensitive Payment Card Data
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.7: Data Masking
+- [Microsoft: Dynamic Data Masking](https://docs.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview) - Database Security
 - Intra365 Security Policies and Procedures
 
 ---

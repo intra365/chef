@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.21)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.21: Security of Network Services
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CA-3: System Interconnections, SC-8: Transmission Confidentiality
+- [NIST SP 800-189](https://csrc.nist.gov/publications/detail/sp/800-189/final) - Resilient Interdomain Traffic Exchange
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 12.8: Establish and Maintain Dedicated Computing Resources
+- [RFC 2350: FIRST Security Provider Standards](https://datatracker.ietf.org/doc/html/rfc2350) - Network Service Documentation
+- [Cloud Security Alliance: Cloud Controls Matrix](https://cloudsecurityalliance.org/) - Cloud Service Security
+- [Azure Service Trust Portal](https://servicetrust.microsoft.com/) - Cloud Provider Assurances
+- [NIST CSF: Protect Function](https://www.nist.gov/cyberframework) - Network Service Protection
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.6: Third-Party Network Services
+- [ISO/IEC 27036-4:2016](https://www.iso.org/standard/59680.html) - Security of Supplier Relationships - Cloud Services
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.10)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.10: Information Deletion
+- [NIST SP 800-88 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final) - Guidelines for Media Sanitization
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - MP-6: Media Sanitization
+- [GDPR Article 17](https://gdpr-info.eu/art-17-gdpr/) - Right to Erasure (Right to be Forgotten)
+- [ISO/IEC 27040:2015](https://www.iso.org/standard/44404.html) - Storage Security - Data Deletion
+- [DoD 5220.22-M](https://www.dss.mil/) - Data Sanitization Standards
+- [NIST FIPS 180-4](https://csrc.nist.gov/publications/detail/fips/180/4/final) - Secure Hash Standard (Verification)
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 3.2.1: Secure Deletion of Cardholder Data
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.5: Data Disposal
+- [CCPA: Data Deletion Requirements](https://oag.ca.gov/privacy/ccpa) - California Consumer Privacy Act
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.23)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.23: Web Filtering
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SC-7: Boundary Protection, SI-4: System Monitoring
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 9.3: Maintain and Enforce Network-Based URL Filters
+- [NIST SP 800-44 Version 2](https://csrc.nist.gov/publications/detail/sp/800-44/version-2/final) - Guidelines on Securing Public Web Servers
+- [DNS Filtering Best Practices](https://www.cisa.gov/) - Protective DNS Services
+- [Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/) - Web Content Filtering
+- [Cloudflare Gateway](https://www.cloudflare.com/products/zero-trust/gateway/) - DNS and HTTP Filtering
+- [OWASP: Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Web Application Security
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 1.3.3: Limit Internet Access
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.6: Web Content Filtering
 - Intra365 Security Policies and Procedures
 
 ---

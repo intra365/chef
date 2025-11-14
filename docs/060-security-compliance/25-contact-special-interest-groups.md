@@ -97,6 +97,22 @@ Key performance indicators for this control:
 
 ## References
 
+- [ISO/IEC 27001:2022 - Information Security Management Systems](https://www.iso.org/standard/27001) - International Organization for Standardization
+- [ISO/IEC 27002:2022 - Control A.5.6: Contact with Special Interest Groups](https://www.iso.org/standard/75652.html) - ISO Standard
+- [FIRST - Forum of Incident Response and Security Teams](https://www.first.org/) - Global security community
+- [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) - Cloud security best practices
+- [OWASP - Open Web Application Security Project](https://owasp.org/) - Application security community
+- [CNCF Security SIG](https://github.com/cncf/tag-security) - Cloud Native Computing Foundation Security
+- [Kubernetes Security Special Interest Group](https://github.com/kubernetes/community/tree/master/sig-security) - Kubernetes community
+- [Microsoft Security Response Center](https://www.microsoft.com/en-us/msrc) - Microsoft security updates and advisories
+
+---
+
+**Need help with security communities?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions)
+- **Approval Required**: CISO
+
+## References
+
 - ISO/IEC 27001:2022 - Information security management systems
 - ISO/IEC 27002:2022 - Code of practice for information security controls
 - Intra365 Security Policies and Procedures

@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.25)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.25: Secure Development Life Cycle
+- [NIST SP 800-218](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Secure Software Development Framework (SSDF)
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SA-3: System Development Life Cycle, SA-15: Development Process
+- [ISO/IEC 27034-1:2011](https://www.iso.org/standard/44378.html) - Application Security - Overview and Concepts
+- [OWASP SAMM](https://owaspsamm.org/) - Software Assurance Maturity Model
+- [Microsoft SDL](https://www.microsoft.com/en-us/securityengineering/sdl/) - Security Development Lifecycle
+- [BSIMM](https://www.bsimm.com/) - Building Security In Maturity Model
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 16: Application Software Security
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.3: Secure Development Practices
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Secure SDLC
+- [SAFECode: Fundamental Practices](https://safecode.org/) - Secure Software Development
 - Intra365 Security Policies and Procedures
 
 ---

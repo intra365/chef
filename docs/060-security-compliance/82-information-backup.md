@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.13)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.13: Information Backup
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CP-9: System Backup, CP-10: System Recovery and Reconstitution
+- [NIST SP 800-34 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-34/rev-1/final) - Contingency Planning Guide
+- [ISO 22301:2019](https://www.iso.org/standard/75106.html) - Business Continuity Management Systems
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 11: Data Recovery
+- [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/) - Cloud Backup Best Practices
+- [3-2-1 Backup Rule](https://www.veeam.com/) - Industry Standard Backup Strategy
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 12.10: Backup and Recovery Procedures
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC7.5: Backup Controls
+- [Kubernetes: Backup and Restore](https://kubernetes.io/docs/tasks/administer-cluster/) - Container Backup Strategies
 - Intra365 Security Policies and Procedures
 
 ---

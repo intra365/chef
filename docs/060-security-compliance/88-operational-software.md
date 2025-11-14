@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.19)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.19: Installation of Software on Operational Systems
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CM-7: Least Functionality, SI-7: Software Integrity
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 2.7: Allow Only Authorized Software
+- [NIST SSDF (SP 800-218)](https://csrc.nist.gov/publications/detail/sp/800-218/final) - Secure Software Development Framework
+- [Microsoft: Application Control](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/) - Windows Defender Application Control
+- [AppLocker](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview) - Application Whitelisting
+- [NIST SP 800-167](https://csrc.nist.gov/publications/detail/sp/800-167/final) - Guide to Application Whitelisting
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 6.4: Production Software Change Control
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC8.1: Software Installation Controls
+- [Kubernetes: Admission Controllers](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/) - Policy Enforcement
 - Intra365 Security Policies and Procedures
 
 ---

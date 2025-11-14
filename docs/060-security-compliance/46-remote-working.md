@@ -97,8 +97,15 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.6.7)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 6.7: Remote Working
+- [NIST SP 800-46 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-46/rev-2/final) - Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security
+- [NIST SP 800-114 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-114/rev-1/final) - User's Guide to Telework and BYOD Security
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 12: Network Infrastructure Management (Remote Access)
+- [NCSC: Home Working](https://www.ncsc.gov.uk/guidance/home-working) - Secure Home Working Guidance
+- [ENISA: Secure Remote Working](https://www.enisa.europa.eu/) - Telework Security Guidelines
+- [SANS: Remote Work Security Policy](https://www.sans.org/information-security-policy/) - Remote Access Security Templates
+- [Zero Trust Architecture (NIST SP 800-207)](https://csrc.nist.gov/publications/detail/sp/800-207/final) - Zero Trust Principles for Remote Access
 - Intra365 Security Policies and Procedures
 
 ---

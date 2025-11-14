@@ -97,8 +97,17 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Requirements (Control A.8.22)
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8.22: Segregation of Networks
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - SC-7: Boundary Protection, AC-4: Information Flow Enforcement
+- [NIST SP 800-125](https://csrc.nist.gov/publications/detail/sp/800-125/final) - Guide to Security for Full Virtualization Technologies
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 12.2: Establish and Maintain a Secure Network Architecture
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 1.2: Network Segmentation
+- [Zero Trust Architecture (NIST SP 800-207)](https://csrc.nist.gov/publications/detail/sp/800-207/final) - Micro-segmentation
+- [Azure Virtual Networks](https://docs.microsoft.com/en-us/azure/virtual-network/) - Network Isolation and Segmentation
+- [Kubernetes Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/) - Pod Network Segmentation
+- [Cisco: Network Segmentation Best Practices](https://www.cisco.com/) - Enterprise Network Design
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.6: Network Segmentation
 - Intra365 Security Policies and Procedures
 
 ---
