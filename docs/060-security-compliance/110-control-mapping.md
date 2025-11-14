@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Annex A Controls
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Implementation Guidance
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Security and Privacy Controls
+- [NIST CSF v1.1](https://www.nist.gov/cyberframework) - Cybersecurity Framework Core
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Implementation Groups and Safeguards
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirements and Testing Procedures
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Common Criteria Framework
+- [NIST SP 800-171 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final) - Protecting CUI in Nonfederal Systems
+- [COBIT 2019](https://www.isaca.org/resources/cobit) - Control Objectives Framework
+- [ISO/IEC 27701:2019](https://www.iso.org/standard/71670.html) - Privacy Information Management
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Security of Processing Requirements
+- [FedRAMP Security Controls](https://www.fedramp.gov/) - Cloud Security Authorization Framework
 - Intra365 Security Policies and Procedures
 
 ---

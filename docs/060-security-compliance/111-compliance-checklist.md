@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Annex A Controls Checklist
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Implementation Guidance for Each Control
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - Control Assessment Procedures
+- [NIST SP 800-53A Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-5/final) - Assessing Security and Privacy Controls
+- [CIS Controls v8: Implementation Groups](https://www.cisecurity.org/controls/v8) - Prioritized Security Controls
+- [PCI DSS v4.0: SAQ](https://www.pcisecuritystandards.org/) - Self-Assessment Questionnaire
+- [SOC 2: Readiness Assessment](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Pre-Audit Checklist
+- [ISO 27001 Audit Checklist](https://www.iso.org/standard/27001) - Certification Audit Requirements
+- [NIST CSF: Implementation Tiers](https://www.nist.gov/cyberframework) - Maturity Assessment
+- [CMMC Level Requirements](https://www.acq.osd.mil/cmmc/) - Cybersecurity Maturity Model Certification
+- [FedRAMP: Security Assessment](https://www.fedramp.gov/) - Cloud Authorization Checklist
+- [BSI IT-Grundschutz](https://www.bsi.bund.de/EN/) - German IT Security Standards
 - Intra365 Security Policies and Procedures
 
 ---

@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Clause 9.1: Monitoring, Measurement, Analysis and Evaluation
+- [ISO/IEC 27004:2016](https://www.iso.org/standard/64120.html) - Information Security Management - Monitoring, Measurement, Analysis and Evaluation
+- [NIST SP 800-55 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-55/rev-1/final) - Performance Measurement Guide for Information Security
+- [NIST Cybersecurity Framework: Metrics](https://www.nist.gov/cyberframework) - Cybersecurity Performance Indicators
+- [CIS Controls v8: Metrics](https://www.cisecurity.org/controls/v8) - Implementation Group Measurements
+- [SANS: Security Metrics](https://www.sans.org/white-papers/) - Practical Security Metrics
+- [OWASP Security Metrics](https://owasp.org/) - Application Security Measurement
+- [SOC 2: KPI Reporting](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Trust Services Criteria Metrics
+- [Elasticsearch Security Analytics](https://www.elastic.co/security) - SIEM Dashboards and Metrics
+- [Azure Security Center: Secure Score](https://docs.microsoft.com/en-us/azure/security-center/) - Cloud Security Posture
+- [MITRE ATT&CK: Detection Coverage](https://attack.mitre.org/) - Threat Detection Metrics
+- [Grafana Dashboards](https://grafana.com/) - Metrics Visualization Platform
 - Intra365 Security Policies and Procedures
 
 ---

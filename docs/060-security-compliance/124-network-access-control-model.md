@@ -581,6 +581,24 @@ All changes to this access control model must:
 
 ---
 
+## References
+
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - Access Control Requirements
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 8: Technological Controls
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - AC Family: Access Control
+- [NIST SP 800-162](https://csrc.nist.gov/publications/detail/sp/800-162/final) - Guide to Attribute Based Access Control (ABAC)
+- [NIST SP 800-207](https://csrc.nist.gov/publications/detail/sp/800-207/final) - Zero Trust Architecture
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 6: Access Control Management
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 7: Restrict Access to System Components
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.1-CC6.2: Logical and Physical Access Controls
+- [IEEE 802.1X](https://standards.ieee.org/standard/802_1X-2020.html) - Port-Based Network Access Control
+- [Azure Network Security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview) - Network Access Controls
+- [Kubernetes Network Policies](https://kubernetes.io/docs/concepts/services-networking/network-policies/) - Container Network Access Control
+- [NIST SP 800-63B](https://csrc.nist.gov/publications/detail/sp/800-63b/final) - Digital Identity Guidelines: Authentication
+- Intra365 Security Policies and Procedures
+
+---
+
 *Document Version*: 1.0  
 *Last Updated*: November 11, 2025  
 *Next Review Date*: February 11, 2026  

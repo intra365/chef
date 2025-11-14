@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Clause 10: Improvement
+- [ISO 9001:2015](https://www.iso.org/standard/62085.html) - Quality Management - Continual Improvement
+- [NIST SP 800-137](https://csrc.nist.gov/publications/detail/sp/800-137/final) - Information Security Continuous Monitoring (ISCM)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) - Continuous Improvement Methodology
+- [ITIL 4: Continual Improvement](https://www.axelos.com/certifications/itil-service-management) - Service Management Practice
+- [ISO 31000:2018](https://www.iso.org/standard/65694.html) - Risk Management - Principles and Guidelines
+- [PDCA Cycle (Plan-Do-Check-Act)](https://www.iso.org/standard/27001) - ISO Management System Approach
+- [CMMI: Continuous Improvement](https://cmmiinstitute.com/) - Capability Maturity Model Integration
+- [Kaizen Methodology](https://www.lean.org/) - Continuous Improvement Philosophy
+- [Six Sigma](https://www.isixsigma.com/) - Process Improvement Methodology
+- [SOC 2: Continuous Monitoring](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Ongoing Compliance
+- [DevSecOps: Continuous Security](https://www.devsecops.org/) - Security in CI/CD Pipelines
 - Intra365 Security Policies and Procedures
 
 ---

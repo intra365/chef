@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Documented Information Requirements
+- [ISO 19011:2018](https://www.iso.org/standard/70017.html) - Audit Evidence Collection
+- [NIST SP 800-53A Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53a/rev-5/final) - Evidence Requirements for Control Assessment
+- [SOC 2: Evidence Collection](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Audit Documentation Requirements
+- [PCI DSS: Evidence Documentation](https://www.pcisecuritystandards.org/) - Compliance Evidence Standards
+- [ISO/IEC 27006:2015](https://www.iso.org/standard/62313.html) - Requirements for Audit Bodies
+- [ISACA: Audit Evidence](https://www.isaca.org/) - IT Audit Standards and Practices
+- [FedRAMP: Evidence Requirements](https://www.fedramp.gov/) - Security Assessment Package
+- [NIST SP 800-86](https://csrc.nist.gov/publications/detail/sp/800-86/final) - Guide to Integrating Forensic Techniques
+- [ISO/IEC 27050:2016](https://www.iso.org/standard/44406.html) - Electronic Discovery
+- [GDPR Article 5](https://gdpr-info.eu/art-5-gdpr/) - Accountability and Record-Keeping
+- [Chain of Custody Best Practices](https://www.sans.org/) - Digital Evidence Handling
 - Intra365 Security Policies and Procedures
 
 ---

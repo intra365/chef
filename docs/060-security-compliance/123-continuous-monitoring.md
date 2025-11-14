@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Clause 9: Performance Evaluation
+- [NIST SP 800-137](https://csrc.nist.gov/publications/detail/sp/800-137/final) - Information Security Continuous Monitoring (ISCM)
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CA-7: Continuous Monitoring, SI-4: System Monitoring
+- [NIST SP 800-137A](https://csrc.nist.gov/publications/detail/sp/800-137a/final) - Continuous Monitoring for Federal Systems
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 8: Audit Log Management
+- [SIEM Best Practices](https://www.sans.org/) - Security Information and Event Management
+- [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/) - Cloud Monitoring and Analytics
+- [Prometheus and Grafana](https://prometheus.io/) - Metrics Collection and Visualization
+- [Elasticsearch SIEM](https://www.elastic.co/security) - Security Analytics Platform
+- [FedRAMP: ConMon Requirements](https://www.fedramp.gov/) - Continuous Monitoring Program
+- [SOC 2: Continuous Monitoring](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Ongoing Compliance Verification
+- [MITRE ATT&CK](https://attack.mitre.org/) - Threat Detection and Monitoring
 - Intra365 Security Policies and Procedures
 
 ---

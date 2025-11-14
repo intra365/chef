@@ -553,9 +553,19 @@ spec:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
-- NIST SP 800-60 - Guide for Mapping Types of Information and Information Systems to Security Categories
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Information Security Management Systems - A.5.12: Classification of Information
+- [ISO/IEC 27002:2022](https://www.iso.org/standard/75652.html) - Information Security Controls - Section 5.12-5.14: Information Classification and Handling
+- [NIST SP 800-60 Vol. 1 Rev. 1](https://csrc.nist.gov/publications/detail/sp/800-60/vol-1-rev-1/final) - Guide for Mapping Types of Information to Security Categories
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - MP-3: Media Marking, RA-2: Security Categorization
+- [NIST FIPS 199](https://csrc.nist.gov/publications/detail/fips/199/final) - Standards for Security Categorization of Federal Information
+- [CIS Controls v8](https://www.cisecurity.org/controls/v8) - Control 3: Data Protection
+- [GDPR Article 5](https://gdpr-info.eu/art-5-gdpr/) - Principles Relating to Processing (Data Classification)
+- [GDPR Article 32](https://gdpr-info.eu/art-32-gdpr/) - Security of Processing (Classification-Based Controls)
+- [PCI DSS v4.0](https://www.pcisecuritystandards.org/) - Requirement 3: Protect Stored Account Data
+- [HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/index.html) - 164.308(a)(1): Risk Analysis and Management
+- [SOC 2 Trust Services Criteria](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - CC6.1: Confidentiality Commitments
+- [ISO/IEC 27040:2015](https://www.iso.org/standard/44404.html) - Storage Security - Information Classification
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) - Data Management and Privacy Controls
 - [Network Access Control Model](./124-network-access-control-model.md)
 - Intra365 Data Classification Policy
 - Intra365 Data Handling Procedures

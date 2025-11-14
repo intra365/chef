@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Management Review and Reporting Requirements
+- [ISO/IEC 27004:2016](https://www.iso.org/standard/64120.html) - Reporting and Communication
+- [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) - CA-2: Security Assessments, CA-7: Continuous Monitoring
+- [SOC 2 Reports](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) - Type I and Type II Reporting
+- [PCI DSS: Report on Compliance](https://www.pcisecuritystandards.org/) - ROC and AOC Requirements
+- [ISO 19011:2018](https://www.iso.org/standard/70017.html) - Audit Reporting Guidelines
+- [NIST CSF: Reporting Templates](https://www.nist.gov/cyberframework) - Framework Implementation Reporting
+- [GRC Platforms](https://www.gartner.com/) - Governance, Risk, and Compliance Reporting Tools
+- [GDPR Article 33-34](https://gdpr-info.eu/) - Breach Notification and Reporting Requirements
+- [FedRAMP: Continuous Monitoring Reports](https://www.fedramp.gov/) - Monthly ConMon Reporting
+- [ISACA: Audit Reports](https://www.isaca.org/) - IT Audit Reporting Standards
+- [ServiceNow GRC](https://www.servicenow.com/products/governance-risk-compliance.html) - Compliance Reporting Platform
 - Intra365 Security Policies and Procedures
 
 ---

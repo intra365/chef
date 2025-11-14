@@ -97,8 +97,18 @@ Key performance indicators for this control:
 
 ## References
 
-- ISO/IEC 27001:2022 - Information security management systems
-- ISO/IEC 27002:2022 - Code of practice for information security controls
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) - Continuous Monitoring and Improvement
+- [NIST SP 800-137](https://csrc.nist.gov/publications/detail/sp/800-137/final) - Information Security Continuous Monitoring
+- [NIST SP 800-126 Rev. 3](https://csrc.nist.gov/publications/detail/sp/800-126/rev-3/final) - Security Content Automation Protocol (SCAP)
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) - Automated Configuration Assessment
+- [NIST SP 800-128](https://csrc.nist.gov/publications/detail/sp/800-128/final) - Security-Focused Configuration Management
+- [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) - Policy-Based Control for Cloud Native Environments
+- [Kubernetes Policy Management](https://kubernetes.io/docs/concepts/policy/) - Pod Security Standards and Admission Controllers
+- [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/) - Compliance as Code
+- [AWS Config Rules](https://aws.amazon.com/config/) - Automated Compliance Monitoring
+- [Terraform Sentinel](https://www.terraform.io/docs/cloud/sentinel/) - Policy as Code Framework
+- [InSpec](https://www.inspec.io/) - Compliance Automation Framework
+- [Cloud Custodian](https://cloudcustodian.io/) - Cloud Security and Compliance Automation
 - Intra365 Security Policies and Procedures
 
 ---
