@@ -116,8 +116,8 @@ Key performance indicators for this control:
 ---
 
 **Related Documentation**:
-- [Audit Logging](07-audit-logging.md)
-- [Observability](../030-infrastructure/05-observability.md)
+- [Audit Logging](../010-core-security/07-audit-logging.md)
+- [Observability](../../030-infrastructure/05-observability.md)
 
 ---
 

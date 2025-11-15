@@ -242,9 +242,9 @@ Each of the 93 controls is documented with:
 - [ISACA](https://www.isaca.org/)
 
 ### Internal Links
-- [RAISE 2.0 Compliance](raise-2-0-compliance)
-- [Zero Trust Architecture](zero-trust-architecture)
-- [Security Gates](security-gates)
+- [RAISE 2.0 Compliance](../010-core-security/02-raise-2-0-compliance.md)
+- [Zero Trust Architecture](../010-core-security/01-zero-trust-architecture.md)
+- [Security Gates](../010-core-security/03-security-gates.md)
 
 ---
 

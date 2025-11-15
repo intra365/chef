@@ -529,7 +529,7 @@ This control integrates with:
 - **ISMS Framework**: Core network security component
 - **Risk Management**: Network risks assessed and mitigated
 - **[Network Access Control Model](./124-network-access-control-model.md)**: Comprehensive access framework
-- **[Zero Trust Architecture](./01-zero-trust-architecture.md)**: Network segmentation support
+- **[Zero Trust Architecture](../010-core-security/01-zero-trust-architecture.md)**: Network segmentation support
 - **[Cryptography](./93-cryptography.md)**: Encryption in transit implementation
 - **[Monitoring Activities](./85-monitoring-activities.md)**: Network traffic monitoring
 - **Incident Response**: Network-based incident detection

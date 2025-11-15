@@ -24,38 +24,38 @@ Select the persona that best matches your role to get personalized documentation
 
 Hands-on technical implementation, building, deploying, and maintaining systems.
 
-- [**Developer**](./technical-practitioner/developer.md) - Application development, APIs, SDKs
-- [**DevOps Engineer**](./technical-practitioner/devops-engineer.md) - CI/CD, GitOps, automation
-- [**Security Engineer**](./technical-practitioner/security-engineer.md) - Security controls, compliance
-- [**SRE**](./technical-practitioner/sre.md) - Site reliability, operations automation
-- [**Data Engineer**](./technical-practitioner/data-engineer.md) - Data pipelines, analytics
+- [**Developer**](./040-technical-practitioner/developer.md) - Application development, APIs, SDKs
+- [**DevOps Engineer**](./040-technical-practitioner/devops-engineer.md) - CI/CD, GitOps, automation
+- [**Security Engineer**](./040-technical-practitioner/security-engineer.md) - Security controls, compliance
+- [**SRE**](./040-technical-practitioner/sre.md) - Site reliability, operations automation
+- [**Data Engineer**](./040-technical-practitioner/data-engineer.md) - Data pipelines, analytics
 
 ### 🔧 Operations Professionals
 
 Day-to-day system operations, monitoring, and incident response.
 
-- [**System Administrator**](./operations-professional/system-admin.md) - Server management, configuration
-- [**Database Administrator**](./operations-professional/database-admin.md) - Database performance, backup
-- [**Network Administrator**](./operations-professional/network-admin.md) - Network security, connectivity
-- [**Support Engineer**](./operations-professional/support-engineer.md) - User support, troubleshooting
+- [**System Administrator**](./020-operations-professional/system-admin.md) - Server management, configuration
+- [**Database Administrator**](./020-operations-professional/database-admin.md) - Database performance, backup
+- [**Network Administrator**](./020-operations-professional/network-admin.md) - Network security, connectivity
+- [**Support Engineer**](./020-operations-professional/support-engineer.md) - User support, troubleshooting
 
 ### 🏗️ Strategic Decision Makers
 
 Architectural decisions, technical leadership, and long-term strategy.
 
-- [**Enterprise Architect**](./strategic-decision-maker/enterprise-architect.md) - Organizational alignment, strategy
-- [**Solution Architect**](./strategic-decision-maker/solution-architect.md) - Implementation, integrations
-- [**Technical Lead**](./strategic-decision-maker/technical-lead.md) - Team guidance, code quality
-- [**Engineering Manager**](./strategic-decision-maker/engineering-manager.md) - Team leadership, delivery
+- [**Enterprise Architect**](./030-strategic-decision-maker/enterprise-architect.md) - Organizational alignment, strategy
+- [**Solution Architect**](./030-strategic-decision-maker/solution-architect.md) - Implementation, integrations
+- [**Technical Lead**](./030-strategic-decision-maker/technical-lead.md) - Team guidance, code quality
+- [**Engineering Manager**](./030-strategic-decision-maker/engineering-manager.md) - Team leadership, delivery
 
 ### 📋 Governance & Compliance
 
 Regulatory compliance, risk management, and audit preparation.
 
-- [**Compliance Officer**](./governance-compliance/compliance-officer.md) - Regulatory requirements, certifications
-- [**Auditor**](./governance-compliance/auditor.md) - Verification, evidence, testing
-- [**Risk Manager**](./governance-compliance/risk-manager.md) - Risk identification, mitigation
-- [**Data Protection Officer**](./governance-compliance/dpo.md) - Privacy, GDPR compliance
+- [**Compliance Officer**](./010-governance-compliance/compliance-officer.md) - Regulatory requirements, certifications
+- [**Auditor**](./010-governance-compliance/auditor.md) - Verification, evidence, testing
+- [**Risk Manager**](./010-governance-compliance/risk-manager.md) - Risk identification, mitigation
+- [**Data Protection Officer**](./010-governance-compliance/dpo.md) - Privacy, GDPR compliance
 
 ## How to Use Personas
 

@@ -433,5 +433,5 @@ kubectl get endpoints my-service -n production
 - **[Developer](./developer.md)**: Support with deployment needs
 - **[SRE](./sre.md)**: Collaborate on reliability and performance
 - **[Security Engineer](./security-engineer.md)**: Implement security controls
-- **[System Administrator](../operations-professional/system-admin.md)**: Manage infrastructure together
-- **[Enterprise Architect](../strategic-decision-maker/enterprise-architect.md)**: Align with architectural decisions
+- **[System Administrator](../020-operations-professional/system-admin.md)**: Manage infrastructure together
+- **[Enterprise Architect](../030-strategic-decision-maker/enterprise-architect.md)**: Align with architectural decisions

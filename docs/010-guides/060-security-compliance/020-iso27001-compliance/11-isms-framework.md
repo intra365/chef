@@ -414,7 +414,7 @@ When nonconformities are identified:
 - Automated security testing and compliance checks
 - Security gates in deployment pipelines
 
-See [Security Gates](security-gates).
+See [Security Gates](../010-core-security/03-security-gates.md).
 
 ## ISMS Maintenance
 

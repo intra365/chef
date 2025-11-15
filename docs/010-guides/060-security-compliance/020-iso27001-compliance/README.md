@@ -126,9 +126,9 @@ Each control document includes:
 ## 🔗 Integration with Existing Documentation
 
 This ISO 27001 documentation integrates with:
-- **RAISE 2.0 Compliance** ([02-raise-2-0-compliance](raise-2-0-compliance))
-- **Zero Trust Architecture** ([01-zero-trust-architecture](zero-trust-architecture))
-- **Security Gates** ([03-security-gates](security-gates))
+- **RAISE 2.0 Compliance** ([02-raise-2-0-compliance](../010-core-security/02-raise-2-0-compliance.md))
+- **Zero Trust Architecture** ([01-zero-trust-architecture](../010-core-security/01-zero-trust-architecture.md))
+- **Security Gates** ([03-security-gates](../010-core-security/03-security-gates.md))
 - **Operations Runbooks** (../070-operations-runbooks/)
 
 ## 📝 Compliance Status

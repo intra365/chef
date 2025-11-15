@@ -381,7 +381,7 @@ After implementing risk treatments:
 - Review residual risks regularly (at least annually)
 - Monitor for changes that might increase residual risk
 
-See [Residual Risk Tracking](residual-risk-tracking) for tracking processes.
+See [Residual Risk Tracking](../010-core-security/09-residual-risk-tracking.md) for tracking processes.
 
 ## Risk Register
 
@@ -530,7 +530,7 @@ Risk assessment informs:
 - [Statement of Applicability](statement-of-applicability)
 - [Asset Management](asset-management)
 - [Threat Intelligence](threat-intelligence)
-- [Residual Risk Tracking](residual-risk-tracking)
+- [Residual Risk Tracking](../010-core-security/09-residual-risk-tracking.md)
 - [Incident Management](incident-management)
 
 ---

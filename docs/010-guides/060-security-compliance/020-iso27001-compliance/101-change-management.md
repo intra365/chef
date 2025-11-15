@@ -116,9 +116,9 @@ Key performance indicators for this control:
 ---
 
 **Related Documentation**:
-- [GitOps Workflow](../020-architecture/02-gitops-workflow.md)
-- [Deployment Pipeline](../020-architecture/05-deployment-pipeline.md)
-- [GitHub Actions Workflows](../040-deployment-workflows/05-github-actions-workflows.md)
+- [GitOps Workflow](../../020-architecture/02-gitops-workflow.md)
+- [Deployment Pipeline](../../020-architecture/05-deployment-pipeline.md)
+- [GitHub Actions Workflows](../../040-deployment-workflows/05-github-actions-workflows.md)
 
 ---
 

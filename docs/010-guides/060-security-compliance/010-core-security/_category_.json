@@ -1,0 +1,8 @@
+{
+  "label": "Core Security",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Core security practices including Zero Trust, RAISE 2.0 compliance, and container security"
+  }
+}

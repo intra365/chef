@@ -416,6 +416,6 @@ if __name__ == '__main__':
 
 - **[DevOps Engineer](./devops-engineer.md)**: Collaborate on infrastructure and deployments
 - **[Developer](./developer.md)**: Guide on reliability requirements
-- **[System Administrator](../operations-professional/system-admin.md)**: Work together on operations
+- **[System Administrator](../020-operations-professional/system-admin.md)**: Work together on operations
 - **[Security Engineer](./security-engineer.md)**: Implement security monitoring
-- **[Enterprise Architect](../strategic-decision-maker/enterprise-architect.md)**: Influence reliability requirements
+- **[Enterprise Architect](../030-strategic-decision-maker/enterprise-architect.md)**: Influence reliability requirements

@@ -258,8 +258,8 @@ This control integrates with:
 - **ISMS Framework**: Privileged access is core component of information security management
 - **Risk Management Process**: Privileged access risks assessed and mitigated
 - **[Network Access Control Model](./124-network-access-control-model.md)**: Comprehensive access control framework
-- **[Zero Trust Architecture](./01-zero-trust-architecture.md)**: Never trust, always verify for privileged access
-- **[Audit Logging](./07-audit-logging.md)**: All privileged activities logged
+- **[Zero Trust Architecture](../010-core-security/01-zero-trust-architecture.md)**: Never trust, always verify for privileged access
+- **[Audit Logging](../010-core-security/07-audit-logging.md)**: All privileged activities logged
 - **[Segregation of Duties](./22-segregation-of-duties.md)**: Preventing conflicting privileged roles
 - **Operational Procedures**: Change management, incident response integration
 

@@ -117,8 +117,8 @@ Key performance indicators for this control:
 
 **Related Documentation**:
 - [Environment Separation](100-separation-environments.md)
-- [Data Protection](../030-infrastructure/04-secrets-management.md)
-- [Testing Procedures](../070-operations-runbooks/05-testing-procedures.md)
+- [Data Protection](../../030-infrastructure/04-secrets-management.md)
+- [Daily Operations](../../070-operations-runbooks/01-daily-operations.md)
 
 ---
 

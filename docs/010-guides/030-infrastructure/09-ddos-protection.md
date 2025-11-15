@@ -20,8 +20,8 @@ DDoS protection ensures:
 
 ## Related Documents
 
-- [Network Security](../060-security-compliance/89-networks-security.md)
-- [Network Access Control Model](../060-security-compliance/124-network-access-control-model.md)
+- [Network Security](../060-security-compliance/020-iso27001-compliance/89-networks-security.md)
+- [Network Access Control Model](../060-security-compliance/020-iso27001-compliance/124-network-access-control-model.md)
 - [Disaster Recovery](./06-disaster-recovery.md)
 - [Scaling Strategy](./07-scaling-strategy.md)
 - [Observability](./05-observability.md)

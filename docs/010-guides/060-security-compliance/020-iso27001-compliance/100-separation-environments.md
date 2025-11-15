@@ -121,9 +121,9 @@ Key performance indicators for this control:
 ---
 
 **Related Documentation**:
-- [System Architecture](../020-architecture/01-system-architecture.md)
-- [GitOps Workflow](../020-architecture/02-gitops-workflow.md)
-- [Multi-Environment Strategy](../020-architecture/06-multi-environment.md)
+- [System Architecture](../../020-architecture/01-system-architecture.md)
+- [GitOps Workflow](../../020-architecture/02-gitops-workflow.md)
+- [Multi-Environment Strategy](../../020-architecture/06-multi-environment.md)
 
 ---
 

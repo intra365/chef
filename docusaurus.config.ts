@@ -96,6 +96,12 @@ const config: Config = {
           label: 'Personas',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'reference',
+          position: 'left',
+          label: 'Reference',
+        },
+        {
           type: 'docsVersionDropdown',
           position: 'right',
         },
@@ -118,15 +124,15 @@ const config: Config = {
           items: [
             {
               label: 'Introduction',
-              to: '/docs/current/introduction/overview',
+              to: '/docs/current/guides/introduction/overview',
             },
             {
               label: 'Architecture',
-              to: '/docs/current/architecture/system-architecture',
+              to: '/docs/current/guides/architecture/system-architecture',
             },
             {
               label: 'Deployment',
-              to: '/docs/current/deployment-workflows/deployment-overview',
+              to: '/docs/current/guides/deployment-workflows/deployment-overview',
             },
           ],
         },
@@ -135,7 +141,7 @@ const config: Config = {
           items: [
             {
               label: 'Roadmap',
-              to: '/docs/current/roadmap/roadmap-overview',
+              to: '/docs/current/guides/roadmap/roadmap-overview',
             },
             {
               label: 'API Reference',
@@ -143,7 +149,7 @@ const config: Config = {
             },
             {
               label: 'Troubleshooting',
-              to: '/docs/current/troubleshooting/common-issues',
+              to: '/docs/current/guides/troubleshooting/common-issues',
             },
           ],
         },
@@ -156,7 +162,7 @@ const config: Config = {
             },
             {
               label: 'Contributing',
-              to: '/docs/current/contributing/contribution-guidelines',
+              to: '/docs/current/guides/contributing/contribution-guidelines',
             },
             {
               label: 'Intra365 Specs',

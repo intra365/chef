@@ -290,4 +290,4 @@ docker build --no-cache -t my-service:local .
 - **[DevOps Engineer](./devops-engineer.md)**: Collaborate on deployment pipelines
 - **[Security Engineer](./security-engineer.md)**: Implement security requirements
 - **[SRE](./sre.md)**: Ensure service reliability and performance
-- **[Technical Lead](../strategic-decision-maker/technical-lead.md)**: Receive technical direction and guidance
+- **[Technical Lead](../030-strategic-decision-maker/technical-lead.md)**: Receive technical direction and guidance

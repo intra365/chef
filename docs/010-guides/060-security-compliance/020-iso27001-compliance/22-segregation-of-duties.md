@@ -428,7 +428,7 @@ This control integrates with:
 - **Risk Management Process**: SoD violations are key risks to manage
 - **[Network Access Control Model](./124-network-access-control-model.md)**: Access control enforcement
 - **[Privileged Access Rights](./71-privileged-access-rights.md)**: Privileged account segregation
-- **[Zero Trust Architecture](./01-zero-trust-architecture.md)**: Continuous verification of access
+- **[Zero Trust Architecture](../010-core-security/01-zero-trust-architecture.md)**: Continuous verification of access
 - **Change Management**: CAB approval workflows enforce segregation
 - **Incident Response**: Independent investigation and remediation
 
