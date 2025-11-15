@@ -1,0 +1,10 @@
+{
+  "label": "Personas",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "personas/index"
+  },
+  "collapsible": true,
+  "collapsed": false
+}

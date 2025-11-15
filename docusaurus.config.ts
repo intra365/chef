@@ -77,11 +77,10 @@ const config: Config = {
   themeConfig: {
     image: 'img/chef-social-card.jpg',
     navbar: {
-      title: 'Intra365',
+      title: 'Intra365 Chef',
       logo: {
         alt: 'Intra365 Logo',
-        src: 'img/placeholder.svg',
-        href: '/',
+        src: 'img/logo.svg',
       },
       items: [
         {
@@ -91,16 +90,21 @@ const config: Config = {
           label: 'Documentation',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'personas',
+          position: 'left',
+          label: 'Personas',
+        },
+        {
           type: 'docsVersionDropdown',
           position: 'right',
-          dropdownActiveClassDisabled: true,
         },
         {
           type: 'search',
           position: 'right',
         },
         {
-          href: 'https://github.com/intra365/chef',
+          href: 'https://github.com/intra365/intra365-chef',
           label: 'GitHub',
           position: 'right',
         },
