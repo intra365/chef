@@ -42,30 +42,30 @@ DevOps Engineers bridge the gap between development and operations, building and
 ## Documentation Priorities
 
 ### Essential Reading
-1. **[GitOps Workflow](/docs/architecture/gitops-workflow)** - Core deployment methodology
-2. **[Deployment Pipeline](/docs/architecture/deployment-pipeline)** - Pipeline architecture and stages
-3. **[Azure AKS Setup](/docs/infrastructure/azure-aks-setup)** - Kubernetes cluster configuration
-4. **[GitHub Actions Workflows](/docs/deployment-workflows/github-actions-workflows)** - CI/CD implementation
+1. **[GitOps Workflow](../../010-guides/020-architecture/02-gitops-workflow.md)** - Core deployment methodology
+2. **[Deployment Pipeline](../../010-guides/020-architecture/05-deployment-pipeline.md)** - Pipeline architecture and stages
+3. **[Azure AKS Setup](../../010-guides/030-infrastructure/01-azure-aks-setup.md)** - Kubernetes cluster configuration
+4. **[GitHub Actions Workflows](../../010-guides/040-deployment-workflows/05-github-actions-workflows.md)** - CI/CD implementation
 
 ### Infrastructure Management
-- **[Infrastructure Overview](/docs/infrastructure/)** - Complete infrastructure guide
-- **[Networking](/docs/infrastructure/networking)** - Network architecture and policies
-- **[Storage](/docs/infrastructure/storage)** - Persistent storage configuration
-- **[Secrets Management](/docs/infrastructure/secrets-management)** - Managing sensitive data
-- **[Observability](/docs/infrastructure/observability)** - Monitoring and logging
+- **[Infrastructure Overview](../../010-guides/030-infrastructure/01-azure-aks-setup.md)** - Complete infrastructure guide
+- **[Networking](../../010-guides/030-infrastructure/02-networking.md)** - Network architecture and policies
+- **[Storage](../../010-guides/030-infrastructure/03-storage.md)** - Persistent storage configuration
+- **[Secrets Management](../../010-guides/030-infrastructure/04-secrets-management.md)** - Managing sensitive data
+- **[Observability](../../010-guides/030-infrastructure/05-observability.md)** - Monitoring and logging
 
 ### Deployment Workflows
-- **[Deployment Overview](/docs/deployment-workflows/deployment-overview)** - Deployment strategies
-- **[Conventional Deployments](/docs/deployment-workflows/conventional-deployments)** - Standard processes
-- **[Helm Charts](/docs/deployment-workflows/helm-charts)** - Chart development and management
-- **[Kustomize Overlays](/docs/deployment-workflows/kustomize-overlays)** - Environment-specific configs
-- **[Rollback Procedures](/docs/deployment-workflows/rollback-procedures)** - Handling failures
-- **[Zero Downtime Updates](/docs/deployment-workflows/zero-downtime-updates)** - Production deployments
+- **[Deployment Overview](../../010-guides/040-deployment-workflows/01-deployment-overview.md)** - Deployment strategies
+- **[Conventional Deployments](../../010-guides/040-deployment-workflows/02-conventional-deployments.md)** - Standard processes
+- **[Helm Charts](../../010-guides/040-deployment-workflows/03-helm-charts.md)** - Chart development and management
+- **[Kustomize Overlays](../../010-guides/040-deployment-workflows/04-kustomize-overlays.md)** - Environment-specific configs
+- **[Rollback Procedures](../../010-guides/040-deployment-workflows/06-rollback-procedures.md)** - Handling failures
+- **[Zero Downtime Updates](../../010-guides/040-deployment-workflows/08-zero-downtime-updates.md)** - Production deployments
 
 ### Scaling and Performance
-- **[Scaling Strategy](/docs/infrastructure/scaling-strategy)** - Auto-scaling configuration
-- **[Disaster Recovery](/docs/infrastructure/disaster-recovery)** - Backup and recovery procedures
-- **[Multi-Environment](/docs/architecture/multi-environment)** - Managing multiple environments
+- **[Scaling Strategy](../../010-guides/030-infrastructure/07-scaling-strategy.md)** - Auto-scaling configuration
+- **[Disaster Recovery](../../010-guides/030-infrastructure/06-disaster-recovery.md)** - Backup and recovery procedures
+- **[Multi-Environment](../../010-guides/020-architecture/06-multi-environment.md)** - Managing multiple environments
 
 ## Common Tasks
 

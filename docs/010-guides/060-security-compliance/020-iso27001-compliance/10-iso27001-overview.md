@@ -201,8 +201,7 @@ Each of the 93 controls is documented with:
 
 1. Review the [ISMS Framework](isms-framework) for implementation details
 2. Understand [Risk Assessment Methodology](risk-assessment-methodology)
-3. Review individual [Control Implementation Guides](category/controls)
-4. Establish [Statement of Applicability](statement-of-applicability)
+3. Establish [Statement of Applicability](statement-of-applicability)
 
 ---
 

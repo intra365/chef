@@ -58,22 +58,22 @@ Ensures data privacy and GDPR compliance.
 ## Relevant Documentation
 
 ### Essential Reading
-- [Security Compliance](/docs/security-compliance/)
-- [ISO 27001 Overview](/docs/security-compliance/iso27001-overview)
-- [RAISE 2.0 Compliance](/docs/security-compliance/raise-2-0-compliance)
-- [Audit Logging](/docs/security-compliance/audit-logging)
+- [Security Compliance](../../010-guides/060-security-compliance/010-core-security/01-zero-trust-architecture.md)
+- [ISO 27001 Overview](../../010-guides/060-security-compliance/020-iso27001-compliance/10-iso27001-overview.md)
+- [RAISE 2.0 Compliance](../../010-guides/060-security-compliance/010-core-security/02-raise-2-0-compliance.md)
+- [Audit Logging](../../010-guides/060-security-compliance/010-core-security/07-audit-logging.md)
 
 ### Compliance Framework
-- [Security Gates](/docs/security-compliance/security-gates)
-- [Container Security](/docs/security-compliance/container-security)
-- [Vulnerability Management](/docs/security-compliance/vulnerability-management)
-- [Secrets Rotation](/docs/security-compliance/secrets-rotation)
+- [Security Gates](../../010-guides/060-security-compliance/010-core-security/03-security-gates.md)
+- [Container Security](../../010-guides/060-security-compliance/010-core-security/04-container-security.md)
+- [Vulnerability Management](../../010-guides/060-security-compliance/010-core-security/08-vulnerability-management.md)
+- [Secrets Rotation](../../010-guides/060-security-compliance/010-core-security/06-secrets-rotation.md)
 
 ### Risk Management
-- [Residual Risk Tracking](/docs/security-compliance/residual-risk-tracking)
-- [Zero Trust Architecture](/docs/security-compliance/zero-trust-architecture)
-- [Disaster Recovery](/docs/infrastructure/disaster-recovery)
-- [Network Policies](/docs/security-compliance/network-policies)
+- [Residual Risk Tracking](../../010-guides/060-security-compliance/010-core-security/09-residual-risk-tracking.md)
+- [Zero Trust Architecture](../../010-guides/060-security-compliance/010-core-security/01-zero-trust-architecture.md)
+- [Disaster Recovery](../../010-guides/030-infrastructure/06-disaster-recovery.md)
+- [Network Policies](../../010-guides/060-security-compliance/010-core-security/05-network-policies.md)
 
 ## Next Steps
 

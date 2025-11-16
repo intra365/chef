@@ -58,22 +58,22 @@ Manages engineering teams and technical delivery.
 ## Relevant Documentation
 
 ### Essential Reading
-- [Architecture Overview](/docs/introduction/architecture-overview)
-- [System Architecture](/docs/architecture/system-architecture)
-- [Integration Points](/docs/architecture/integration-points)
-- [Multi-Environment](/docs/architecture/multi-environment)
+- [Architecture Overview](../../010-guides/020-architecture/01-system-architecture.md)
+- [System Architecture](../../010-guides/020-architecture/01-system-architecture.md)
+- [Integration Points](../../010-guides/020-architecture/04-integration-points.md)
+- [Multi-Environment](../../010-guides/020-architecture/06-multi-environment.md)
 
 ### Strategic Planning
-- [Roadmap](/docs/roadmap/)
-- [Technology Stack](/docs/reference/technology-stack)
-- [Deployment Pipeline](/docs/architecture/deployment-pipeline)
-- [Scaling Strategy](/docs/infrastructure/scaling-strategy)
+- [Roadmap](../../010-guides/110-roadmap/01-roadmap-overview.md)
+- [Technology Stack](../../010-guides/020-architecture/01-system-architecture.md)
+- [Deployment Pipeline](../../010-guides/020-architecture/05-deployment-pipeline.md)
+- [Scaling Strategy](../../010-guides/030-infrastructure/07-scaling-strategy.md)
 
 ### Compliance and Risk
-- [Security Compliance](/docs/security-compliance/)
-- [Risk Tracking](/docs/security-compliance/residual-risk-tracking)
-- [ISO 27001](/docs/security-compliance/iso27001-overview)
-- [Zero Trust Architecture](/docs/security-compliance/zero-trust-architecture)
+- [Security Compliance](../../010-guides/060-security-compliance/010-core-security/01-zero-trust-architecture.md)
+- [Risk Tracking](../../010-guides/060-security-compliance/010-core-security/09-residual-risk-tracking.md)
+- [ISO 27001](../../010-guides/060-security-compliance/020-iso27001-compliance/10-iso27001-overview.md)
+- [Zero Trust Architecture](../../010-guides/060-security-compliance/010-core-security/01-zero-trust-architecture.md)
 
 ## Next Steps
 

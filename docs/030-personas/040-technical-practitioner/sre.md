@@ -46,25 +46,25 @@ Site Reliability Engineers apply software engineering principles to operations, 
 ## Documentation Priorities
 
 ### Essential Reading
-1. **[Observability](/docs/infrastructure/observability)** - Monitoring and logging infrastructure
-2. **[Scaling Strategy](/docs/infrastructure/scaling-strategy)** - Auto-scaling and capacity management
-3. **[Disaster Recovery](/docs/infrastructure/disaster-recovery)** - Backup and recovery procedures
-4. **[Incident Response](/docs/operations-runbooks/incident-response)** - Handling production incidents
+1. **[Observability](../../010-guides/030-infrastructure/05-observability.md)** - Monitoring and logging infrastructure
+2. **[Scaling Strategy](../../010-guides/030-infrastructure/07-scaling-strategy.md)** - Auto-scaling and capacity management
+3. **[Disaster Recovery](../../010-guides/030-infrastructure/06-disaster-recovery.md)** - Backup and recovery procedures
+4. **[Incident Response](../../010-guides/070-operations-runbooks/02-incident-response.md)** - Handling production incidents
 
 ### Reliability Engineering
-- **[Zero Downtime Updates](/docs/deployment-workflows/zero-downtime-updates)** - Production deployments
-- **[Rollback Procedures](/docs/deployment-workflows/rollback-procedures)** - Recovery from failures
-- **[Canary Deployments](/docs/deployment-workflows/canary-deployments)** - Progressive rollouts
-- **[Multi-Environment](/docs/architecture/multi-environment)** - Environment management
+- **[Zero Downtime Updates](../../010-guides/040-deployment-workflows/08-zero-downtime-updates.md)** - Production deployments
+- **[Rollback Procedures](../../010-guides/040-deployment-workflows/06-rollback-procedures.md)** - Recovery from failures
+- **[Canary Deployments](../../010-guides/040-deployment-workflows/07-canary-deployments.md)** - Progressive rollouts
+- **[Multi-Environment](../../010-guides/020-architecture/06-multi-environment.md)** - Environment management
 
 ### Performance and Scaling
-- **[Performance Tuning](/docs/operations-runbooks/performance-tuning)** - Optimization techniques
-- **[Capacity Planning](/docs/operations-runbooks/capacity-planning)** - Resource forecasting
-- **[Load Testing](/docs/operations-runbooks/load-testing)** - Performance validation
+- **[Performance Tuning](../../010-guides/070-operations-runbooks/06-scaling-operations.md)** - Optimization techniques
+- **[Capacity Planning](../../010-guides/070-operations-runbooks/06-scaling-operations.md)** - Resource forecasting
+- **[Load Testing](../../010-guides/070-operations-runbooks/08-health-checks.md)** - Performance validation
 
 ### Security and Compliance
-- **[Security Monitoring](/docs/security-compliance/audit-logging)** - Security event tracking
-- **[Vulnerability Management](/docs/security-compliance/vulnerability-management)** - Security response
+- **[Security Monitoring](../../010-guides/060-security-compliance/010-core-security/07-audit-logging.md)** - Security event tracking
+- **[Vulnerability Management](../../010-guides/060-security-compliance/010-core-security/08-vulnerability-management.md)** - Security response
 
 ## Common Tasks
 

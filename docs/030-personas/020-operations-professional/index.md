@@ -57,21 +57,21 @@ Provides technical support and troubleshoots user issues.
 ## Relevant Documentation
 
 ### Essential Reading
-- [Operations Runbooks](/docs/operations-runbooks/)
-- [Troubleshooting Guide](/docs/troubleshooting/)
-- [Observability](/docs/infrastructure/observability)
-- [Disaster Recovery](/docs/infrastructure/disaster-recovery)
+- [Operations Runbooks](../../010-guides/070-operations-runbooks/01-daily-operations.md)
+- [Troubleshooting Guide](../../010-guides/080-troubleshooting/01-common-issues.md)
+- [Observability](../../010-guides/030-infrastructure/05-observability.md)
+- [Disaster Recovery](../../010-guides/030-infrastructure/06-disaster-recovery.md)
 
 ### Daily Operations
-- [Incident Response](/docs/operations-runbooks/incident-response)
-- [Health Checks](/docs/operations-runbooks/health-checks)
-- [Backup Procedures](/docs/operations-runbooks/backup-restore)
-- [Monitoring Dashboard](/docs/operations-runbooks/monitoring)
+- [Incident Response](../../010-guides/070-operations-runbooks/02-incident-response.md)
+- [Health Checks](../../010-guides/070-operations-runbooks/08-health-checks.md)
+- [Backup Procedures](../../010-guides/070-operations-runbooks/04-backup-restore.md)
+- [Monitoring Dashboard](../../010-guides/070-operations-runbooks/07-log-analysis.md)
 
 ### Maintenance
-- [Rollback Procedures](/docs/deployment-workflows/rollback-procedures)
-- [Scaling Strategy](/docs/infrastructure/scaling-strategy)
-- [Security Gates](/docs/security-compliance/security-gates)
+- [Rollback Procedures](../../010-guides/040-deployment-workflows/06-rollback-procedures.md)
+- [Scaling Strategy](../../010-guides/030-infrastructure/07-scaling-strategy.md)
+- [Security Gates](../../010-guides/060-security-compliance/010-core-security/03-security-gates.md)
 
 ## Next Steps
 

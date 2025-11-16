@@ -41,27 +41,27 @@ Developers are responsible for building and maintaining applications and service
 ## Documentation Priorities
 
 ### Essential Reading
-1. **[Quick Start Guide](/docs/introduction/quick-start)** - Get your development environment running
-2. **[Service Structure](/docs/service-configurations/service-structure)** - Understand how services are organized
-3. **[GitOps Workflow](/docs/architecture/gitops-workflow)** - Learn the development and deployment process
-4. **[GitHub Actions Workflows](/docs/deployment-workflows/github-actions-workflows)** - Understand the CI/CD pipeline
+1. **[Introduction](../../010-guides/010-introduction/01-overview.md)** - Get your development environment running
+2. **[Service Structure](../../010-guides/050-service-configurations/01-service-structure.md)** - Understand how services are organized
+1. **[GitOps Workflow](../../010-guides/020-architecture/02-gitops-workflow.md)** - Deployment process
+2. **[GitHub Actions](../../010-guides/040-deployment-workflows/05-github-actions-workflows.md)** - CI/CD automation
 
 ### Service-Specific Documentation
-- **[Intra365 STS](/docs/service-configurations/intra365-sts)** - Security Token Service
-- **[Intra365 Consent Manager](/docs/service-configurations/intra365-consent-manager)** - Consent management
-- **[Intra365 Mate Registry](/docs/service-configurations/intra365-mate-registry)** - Service registry
-- **[Intra365 Gateway](/docs/service-configurations/intra365-gateway)** - API Gateway
-- **[Intra365 LLM Proxy](/docs/service-configurations/intra365-llm-proxy)** - LLM integration
+- **[Intra365 STS](../../010-guides/050-service-configurations/02-intra365-sts.md)** - Security Token Service
+- **[Intra365 Consent Manager](../../010-guides/050-service-configurations/03-intra365-consent-manager.md)** - Consent management
+- **[Intra365 Mate Registry](../../010-guides/050-service-configurations/04-intra365-mate-registry.md)** - Service registry
+- **[Intra365 Gateway](../../010-guides/050-service-configurations/05-intra365-gateway.md)** - API Gateway
+- **[Intra365 LLM Proxy](../../010-guides/050-service-configurations/06-intra365-llm-proxy.md)** - LLM integration
 
 ### Infrastructure Integration
-- **[NATS Infrastructure](/docs/service-configurations/nats-infrastructure)** - Message bus integration
-- **[PostgreSQL Databases](/docs/service-configurations/postgresql-databases)** - Database access and management
-- **[Secrets Management](/docs/infrastructure/secrets-management)** - Working with secrets
+- **[NATS Infrastructure](../../010-guides/050-service-configurations/07-nats-infrastructure.md)** - Message bus integration
+- **[PostgreSQL Databases](../../010-guides/050-service-configurations/08-postgresql-databases.md)** - Database access and management
+- **[Secrets Management](../../010-guides/030-infrastructure/04-secrets-management.md)** - Working with secrets
 
 ### Development Workflow
-- **[Conventional Deployments](/docs/deployment-workflows/conventional-deployments)** - Standard deployment process
-- **[Helm Charts](/docs/deployment-workflows/helm-charts)** - Service packaging
-- **[Rollback Procedures](/docs/deployment-workflows/rollback-procedures)** - Handling failed deployments
+- **[Conventional Deployments](../../010-guides/040-deployment-workflows/02-conventional-deployments.md)** - Standard deployment process
+- **[Helm Charts](../../010-guides/040-deployment-workflows/03-helm-charts.md)** - Service packaging
+- **[Rollback Procedures](../../010-guides/040-deployment-workflows/06-rollback-procedures.md)** - Handling failed deployments
 
 ## Common Tasks
 
@@ -227,8 +227,8 @@ docker build --no-cache -t my-service:local .
 
 ### Getting Help
 
-- **Documentation**: Check service-specific docs in `/docs/service-configurations/`
-- **Troubleshooting Guide**: Review [Common Issues](/docs/troubleshooting/common-issues)
+- **Documentation**: Check service-specific docs in `docs/010-guides/050-service-configurations/`
+- **Troubleshooting Guide**: Review [Common Issues](../../010-guides/080-troubleshooting/01-common-issues.md)
 - **Team Chat**: Ask in development channel
 - **Code Reviews**: Request guidance from senior developers
 

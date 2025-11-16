@@ -73,31 +73,31 @@ Engineers building data pipelines and managing data infrastructure.
 For Technical Practitioners, the following documentation sections are most relevant:
 
 ### Essential Reading
-- [Quick Start Guide](/docs/introduction/quick-start)
-- [Architecture Overview](/docs/introduction/architecture-overview)
-- [GitOps Workflow](/docs/architecture/gitops-workflow)
-- [Deployment Overview](/docs/deployment-workflows/deployment-overview)
+- [Quick Start Guide](../../010-guides/010-introduction/01-overview.md)
+- [Architecture Overview](../../010-guides/020-architecture/01-system-architecture.md)
+- [GitOps Workflow](../../010-guides/020-architecture/02-gitops-workflow.md)
+- [Deployment Overview](../../010-guides/040-deployment-workflows/01-deployment-overview.md)
 
 ### Implementation Guides
-- [Conventional Deployments](/docs/deployment-workflows/conventional-deployments)
-- [Helm Charts](/docs/deployment-workflows/helm-charts)
-- [Kustomize Overlays](/docs/deployment-workflows/kustomize-overlays)
-- [GitHub Actions Workflows](/docs/deployment-workflows/github-actions-workflows)
+- [Conventional Deployments](../../010-guides/040-deployment-workflows/02-conventional-deployments.md)
+- [Helm Charts](../../010-guides/040-deployment-workflows/03-helm-charts.md)
+- [Kustomize Overlays](../../010-guides/040-deployment-workflows/04-kustomize-overlays.md)
+- [GitHub Actions Workflows](../../010-guides/040-deployment-workflows/05-github-actions-workflows.md)
 
 ### Service Documentation
-- [Service Structure](/docs/service-configurations/service-structure)
-- [NATS Infrastructure](/docs/service-configurations/nats-infrastructure)
-- [PostgreSQL Databases](/docs/service-configurations/postgresql-databases)
+- [Service Structure](../../010-guides/050-service-configurations/01-service-structure.md)
+- [NATS Infrastructure](../../010-guides/050-service-configurations/07-nats-infrastructure.md)
+- [PostgreSQL Databases](../../010-guides/050-service-configurations/08-postgresql-databases.md)
 
 ### Security & Compliance
-- [Zero Trust Architecture](/docs/security-compliance/zero-trust-architecture)
-- [Container Security](/docs/security-compliance/container-security)
-- [Network Policies](/docs/security-compliance/network-policies)
+- [Zero Trust Architecture](../../010-guides/060-security-compliance/010-core-security/01-zero-trust-architecture.md)
+- [Container Security](../../010-guides/060-security-compliance/010-core-security/04-container-security.md)
+- [Network Policies](../../010-guides/060-security-compliance/010-core-security/05-network-policies.md)
 
 ### Troubleshooting
-- [Common Issues](/docs/troubleshooting/common-issues)
-- [Debugging Guide](/docs/troubleshooting/debugging-guide)
-- [Log Analysis](/docs/troubleshooting/log-analysis)
+- [Common Issues](../../010-guides/080-troubleshooting/01-common-issues.md)
+- [Debugging Guide](../../010-guides/080-troubleshooting/05-performance-debugging.md)
+- [Log Analysis](../../010-guides/070-operations-runbooks/07-log-analysis.md)
 
 ## Next Steps
 

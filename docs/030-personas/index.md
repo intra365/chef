@@ -102,12 +102,4 @@ Still unsure? Browse all personas to find the best match, or contact us for guid
 
 ---
 
-## Next Steps
-
-- [Browse Generic Personas](./generic/) - Understand persona families
-- [View Persona Hierarchy](./hierarchy.md) - See the complete inheritance model
-- [Customize Your View](./customization.md) - Personalize documentation display
-
----
-
 **Need help?** [Open an issue](https://github.com/intra365/chef/issues) or [start a discussion](https://github.com/intra365/chef/discussions).
